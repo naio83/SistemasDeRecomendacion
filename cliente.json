@@ -1,0 +1,15 @@
+{  
+    " type ":" object ",
+    " properties ":{  
+      " idCliente ":{  "type":"integer"},
+      " nombre ":{  "type":"string"},
+      " apellido ":{  "type":"string"},
+      " direccion ":{  "type":"string"},
+      " dni ":{  "type":"int"},
+      " telefonos ":{  "type":"array", "items" :{ "type":"string" }
+      },
+    }
+  }
+
+
+
