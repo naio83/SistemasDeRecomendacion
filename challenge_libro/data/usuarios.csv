@@ -1,0 +1,3482 @@
+nombre,miembro_desde,genero,vive_en,nacimiento
+0,3 días,Hombre,Coria - España,1975.0
+1,3 años,Mujer,España,1910.0
+2,4 días,Hombre,,
+3,1 semana,Hombre,Ciudad de mexico - España,1984.0
+4,3 meses,Hombre,Cordoba - España,1970.0
+5,5 días,Mujer,Vigo - España,1987.0
+6,1 semana,Mujer,Madrid - España,1988.0
+7,4 días,Hombre,Valencia - España,1986.0
+8,2 meses,Mujer,Bogotá - Colombia,1973.0
+9,6 días,Mujer,,
+10,3 años,Hombre,Getafe - España,1987.0
+11,1 mes,Hombre,Lima - Peru,1993.0
+12,1 año,Mujer,Badalona - España,1993.0
+13,1 año,Mujer,,
+14,2 días,Hombre,Madrid - España,1986.0
+15,2 años,Mujer,Buenos aires - Argentina,1994.0
+16,3 años,Hombre,Madrid - España,1995.0
+17,3 años,Mujer,Granada - España,1975.0
+18,7 años,,España,
+19,2 días,Mujer,Coslada - España,1980.0
+20,3 años,Hombre,Madrid - España,1952.0
+21,6 años,Hombre,España,1988.0
+22,7 años,Mujer,Albacete - España,1977.0
+23,1 semana,Hombre,Madrid - España,1977.0
+24,1 día,Mujer,Las palmas de gran canaria - España,1966.0
+25,2 semanas,Hombre,Murcia - España,1982.0
+26,11 años,,Valladolid - España,
+27,10 meses,Hombre,Valencia - España,1969.0
+28,4 años,Hombre,Vigo - España,1985.0
+29,2 años,Mujer,Capital federal - Argentina,1980.0
+30,2 años,Hombre,Pamplona - España,1969.0
+31,5 años,Hombre,Madrid - España,1971.0
+32,8 años,,España,1974.0
+33,9 años,,Madrid - España,1910.0
+34,4 días,Hombre,,
+35,1 año,Hombre,Sant cugat del valles - España,1961.0
+36,3 días,Hombre,Madrid - España,1975.0
+37,4 meses,Mujer,Komala - España,1989.0
+38,3 años,Mujer,España,1991.0
+39,3 años,Hombre,,
+40,9 meses,Mujer,Madrid - España,1980.0
+41,12 años,,Zamora - España,1977.0
+42,1 semana,Mujer,Madrid - España,1987.0
+43,3 años,Hombre,España,1910.0
+44,3 años,Hombre,Leon - España,1959.0
+45,3 años,,,
+46,4 meses,Hombre,Logroño - España,1988.0
+47,1 día,Hombre,Madrid - España,1979.0
+48,2 años,Hombre,Vigo - España,1992.0
+49,2 años,Mujer,Madrid - España,1961.0
+50,3 años,Mujer,Ciudad real - España,1995.0
+51,3 días,Mujer,Malaga - España,2009.0
+52,2 años,Hombre,Any - Germany,1910.0
+53,4 años,Mujer,España,1994.0
+54,1 mes,Hombre,Santa fe - Argentina,1990.0
+55,5 meses,Mujer,,
+56,6 meses,Hombre,Madrid - Afghanistan,1994.0
+57,2 años,,¿?,
+58,2 años,Hombre,,
+59,1 año,Hombre,Linares - Chile,1980.0
+60,7 años,Mujer,Salinas - Uruguay,1985.0
+61,9 años,Mujer,España,1979.0
+62,10 años,,España,
+63,11 meses,Hombre,Santander - España,1981.0
+64,8 años,,Mexico,
+65,8 años,,España,1990.0
+66,2 años,Mujer,,
+67,9 años,,España,1965.0
+68,4 años,Hombre,Valencia - España,1982.0
+69,1 semana,Mujer,Arcos de la frontera - España,1995.0
+70,2 años,Mujer,Capital - Argentina,1980.0
+71,5 días,Hombre,Granda - España,1987.0
+72,4 meses,Hombre,Madrid - España,1996.0
+73,2 días,Hombre,Posadas - Argentina,1962.0
+74,1 año,Mujer,"Burdeos - France, French Republic",
+75,6 meses,Mujer,Segovia - España,1988.0
+76,5 años,Mujer,Barcelona - España,1965.0
+77,6 años,Mujer,Santa cruz de tenerife - España,1987.0
+78,4 meses,Hombre,Alicante - España,1976.0
+79,4 semanas,Mujer,Madrid - España,1971.0
+80,3 años,Hombre,,
+81,5 días,Mujer,Buenos aires - Argentina,1997.0
+82,4 meses,Mujer,Getafe - España,1962.0
+83,3 días,Hombre,Seixo marín pontevedra - España,1970.0
+84,2 días,Hombre,Madrid - España,1992.0
+85,5 años,Hombre,Barcelona - España,1981.0
+86,5 años,Mujer,Madrid - España,1980.0
+87,6 meses,Mujer,Getafe - España,1979.0
+88,9 años,Mujer,- - España,2011.0
+89,1 año,Mujer,Cangas - España,1953.0
+90,5 años,Mujer,Ibiza - España,1980.0
+91,5 años,Hombre,Jerez - España,1975.0
+92,10 años,Mujer,Madrid - España,1986.0
+93,10 años,,España - España,1910.0
+94,3 meses,Hombre,Villaviciosa de odón - España,1981.0
+95,4 meses,Hombre,Vilassar de mar - España,1983.0
+96,11 años,,España,
+97,2 años,Mujer,Murcia - ¿?,1979.0
+98,1 año,Hombre,Alcorcón - España,1945.0
+99,10 años,,Sevilla - España,1984.0
+100,2 años,Mujer,Ciudad real - España,1985.0
+101,3 semanas,Hombre,A coruña - España,1993.0
+102,10 años,Hombre,Madrid - España,1975.0
+103,1 año,Mujer,Sevilla - España,1980.0
+104,11 meses,Hombre,Madrid - España,1979.0
+105,3 años,Hombre,España,1994.0
+106,6 años,Mujer,España,1989.0
+107,12 años,,España,
+108,5 años,Mujer,Sevilla - España,1964.0
+109,2 años,Mujer,Valladolid - ¿?,
+110,6 años,,España,1910.0
+111,10 meses,Mujer,,
+112,1 mes,Mujer,Tocancipa - Colombia,1998.0
+113,1 segundo,Hombre,Santa cruz - Bolivia,1984.0
+114,3 años,Hombre,Daimiel - España,1972.0
+115,2 años,Mujer,,
+116,2 años,Hombre,Madrid - España,1993.0
+117,8 años,,Madrid - España,1977.0
+118,2 años,Hombre,,
+119,2 meses,Mujer,A coruña - España,1975.0
+120,5 años,Hombre,Cali - Colombia,1985.0
+121,2 años,Hombre,Madrid - España,1959.0
+122,1 mes,Mujer,Madrid - España,1980.0
+123,2 años,Mujer,Madrid - España,1987.0
+124,4 años,Hombre,Santiago - Cote d'Ivoire,1981.0
+125,3 años,Hombre,Barcelona - España,1990.0
+126,7 años,Hombre,Valladolid - España,1980.0
+127,5 años,,España,1992.0
+128,9 años,,España,
+129,3 meses,Hombre,Coruña - España,1987.0
+130,2 años,,,
+131,7 años,,España,1976.0
+132,5 años,Mujer,España,1973.0
+133,2 años,Hombre,Valencia - España,1961.0
+134,4 meses,Hombre,,
+135,3 años,Mujer,España,1988.0
+136,6 días,Hombre,Issaquah - United States of America,1977.0
+137,10 años,,España,1979.0
+138,2 años,Hombre,Buenoas aires - Argentina,1982.0
+139,6 años,Hombre,Cáceres - España,1987.0
+140,6 años,Mujer,Córdoba - Argentina,1967.0
+141,10 años,Hombre,,
+142,1 año,Hombre,Málaga - España,1991.0
+143,3 años,Hombre,Vélez-málaga - España,
+144,3 meses,Hombre,Donostia - España,1972.0
+145,7 años,,España,1974.0
+146,1 día,Mujer,Madrid - España,1999.0
+147,1 año,Mujer,País vasco - España,1987.0
+148,6 meses,Hombre,,
+149,3 años,Hombre,Santiago de compostela - España,1993.0
+150,11 meses,Hombre,Ourense - España,1988.0
+151,6 años,Mujer,Zumarrága - España,1971.0
+152,3 meses,Hombre,Reikjavik - España,1972.0
+153,1 mes,Hombre,,
+154,9 años,Mujer,San sebastián - España,1980.0
+155,7 años,Hombre,España,1978.0
+156,6 años,Mujer,España,1955.0
+157,1 segundo,Mujer,Barcelona - España,1990.0
+158,11 meses,Mujer,Zaragoza - España,1977.0
+159,6 años,,,
+160,4 años,Hombre,Cadiz - España,1972.0
+161,6 años,Hombre,Barcelona - España,1977.0
+162,4 años,Mujer,Barcelona - España,1972.0
+163,2 años,Mujer,Madrid - España,1977.0
+164,3 años,Hombre,Santo andré - Brazil,1979.0
+165,2 meses,Hombre,Getafe - España,1974.0
+166,4 meses,Hombre,L'hospitalet de llobregat - España,1985.0
+167,2 años,Hombre,Madrid - España,1983.0
+168,8 años,,Valencia - España,1979.0
+169,5 años,Mujer,Béjar - España,1980.0
+170,9 meses,Mujer,Barakaldo - España,1987.0
+171,5 años,Hombre,Valencia - España,1959.0
+172,4 años,Hombre,Ares - España,1980.0
+173,6 años,Mujer,Albacete - España,1991.0
+174,1 semana,Hombre,Ibagué - Colombia,1920.0
+175,1 año,Mujer,Madrid - Afghanistan,1969.0
+176,11 años,Mujer,,
+177,3 meses,Hombre,,
+178,5 meses,Mujer,Barcelona - España,1910.0
+179,7 años,Hombre,Mendoza - Argentina,1969.0
+180,5 días,Mujer,Sevilla - España,1980.0
+181,1 año,Mujer,Las palmas de gran canaria - España,1982.0
+182,1 año,Hombre,Pamplona - España,1958.0
+183,5 años,Hombre,Ubrique - España,1976.0
+184,4 días,Hombre,Sevilla - España,1993.0
+185,3 días,Hombre,Berlin - Germany,1980.0
+186,3 días,Hombre,Gijon - España,1959.0
+187,3 días,Hombre,Barcelona - España,1982.0
+188,3 días,Mujer,Valencia - España,1977.0
+189,3 días,Mujer,Ciutadella - España,1999.0
+190,3 días,Hombre,Madrid - España,1967.0
+191,2 días,Hombre,Cartagena - España,1979.0
+192,2 días,Mujer,Elx / elche - España,1975.0
+193,2 días,Hombre,Huelva - España,1991.0
+194,2 días,Hombre,Aldeamayor de san martín - España,1967.0
+195,4 años,Hombre,España,1963.0
+196,6 años,Hombre,Sevilla - España,1977.0
+197,6 años,Mujer,Terrassa - España,1985.0
+198,2 semanas,Mujer,Maracaibo - Venezuela,1974.0
+199,7 años,Hombre,,
+200,5 años,Mujer,Lleida - España,1968.0
+201,4 años,Hombre,Madrid - España,1973.0
+202,6 meses,Hombre,Barcelona - España,1940.0
+203,5 años,Mujer,Huelva - España,1988.0
+204,3 años,Hombre,España,1977.0
+205,6 años,Hombre,A coruña - España,1987.0
+206,5 años,Hombre,Sevilla - España,1965.0
+207,3 años,Hombre,Almería - España,1991.0
+208,3 meses,Hombre,Murcia - España,1972.0
+209,12 años,,,
+210,1 año,Hombre,La plata - Argentina,1993.0
+211,5 años,Mujer,La coruña - España,1963.0
+212,7 años,,Turon - España,1972.0
+213,4 años,Hombre,Madrid - España,1993.0
+214,2 años,Mujer,Bilbao - España,1979.0
+215,6 años,,España,
+216,3 años,Hombre,España,1962.0
+217,2 años,Mujer,Arroyomolinos - España,1975.0
+218,2 años,Mujer,Lleida - Andorra,1967.0
+219,11 años,Hombre,,
+220,3 años,Mujer,San fernando de henares - España,1966.0
+221,2 años,Hombre,,
+222,9 meses,Hombre,Tarragona - España,1973.0
+223,6 años,Mujer,Valdeaveruelo - España,1965.0
+224,2 años,Hombre,Valencia - Afghanistan,1987.0
+225,4 años,Mujer,Sevilla - España,1992.0
+226,4 años,Mujer,Valencia - España,1988.0
+227,3 años,Hombre,Barcelona - España,1979.0
+228,7 años,,Zaragoza - España,1988.0
+229,5 años,Hombre,España,1986.0
+230,10 años,Mujer,Guadalajara jalisco - Mexico,1977.0
+231,1 semana,Hombre,Bilbao - España,1977.0
+232,4 años,Hombre,España,1971.0
+233,10 años,Hombre,Sevilla - España,1979.0
+234,1 año,Hombre,Santa cruz de tenerife - España,1987.0
+235,8 años,Hombre,Málaga - España,1967.0
+236,3 años,Mujer,,
+237,6 días,Mujer,,
+238,11 meses,Hombre,Madrid - España,1965.0
+239,2 meses,Hombre,San sebastian - España,1982.0
+240,2 años,Hombre,Jerez - España,1987.0
+241,4 meses,Hombre,Asturias - España,1992.0
+242,3 años,Mujer,Buenos aires - Argentina,1989.0
+243,4 años,Hombre,España,1979.0
+244,7 años,,Salamanca - España,1972.0
+245,4 días,Mujer,Barcelona - España,1969.0
+246,4 días,Hombre,Barcelona - España,1989.0
+247,4 días,Mujer,,
+248,3 años,Hombre,Madrid - España,1983.0
+249,6 años,Mujer,España,1982.0
+250,5 meses,Hombre,Valladolid - España,1998.0
+251,2 meses,Hombre,Lima - Peru,1971.0
+252,3 semanas,Mujer,,
+253,9 años,Hombre,España,1987.0
+254,8 años,,Córdoba - España,1968.0
+255,7 años,Hombre,Bilbao - España,1961.0
+256,4 años,Mujer,Ferrol - España,1994.0
+257,9 años,,España,1910.0
+258,5 años,Mujer,España,1980.0
+259,1 año,Hombre,Santander - España,1974.0
+260,3 años,Hombre,Madrid - España,1998.0
+261,1 año,Hombre,Almansa - España,1975.0
+262,1 año,Mujer,Soria - España,1946.0
+263,3 años,Hombre,Málaga - España,1976.0
+264,2 años,Hombre,Caba - Argentina,1993.0
+265,1 año,Hombre,Madrid - España,1974.0
+266,2 días,Hombre,Cartagena - España,1986.0
+267,11 años,,España,1910.0
+268,4 años,Hombre,Zaragoza - España,1975.0
+269,4 meses,Hombre,Badalona - España,1973.0
+270,6 meses,Hombre,Santiago de compostela - España,1986.0
+271,10 años,Mujer,Bizkaia. - España,1981.0
+272,4 meses,Hombre,Granada - España,1992.0
+273,9 años,Mujer,Madrid - España,1975.0
+274,1 año,Hombre,Vigo - España,1970.0
+275,7 años,,Madrid - España,1971.0
+276,4 años,Hombre,España,1964.0
+277,9 años,Hombre,Madrid - España,1987.0
+278,1 segundo,Hombre,Opel corsa - España,1990.0
+279,8 años,Hombre,Sevilla - España,1986.0
+280,1 año,Mujer,Bariloche - Argentina,1986.0
+281,3 meses,Hombre,Donostia-san sebastian - España,1992.0
+282,3 años,,España,
+283,9 meses,Hombre,Vitoria - España,1977.0
+284,11 años,,,
+285,6 años,,,
+286,4 años,Mujer,Barcelona - España,1972.0
+287,6 meses,Hombre,Córdoba - España,1998.0
+288,6 años,Mujer,España,1987.0
+289,2 años,Mujer,,
+290,5 años,Mujer,Madrid - España,1986.0
+291,1 año,Hombre,Viladecans - España,1971.0
+292,5 años,Hombre,León - España,1989.0
+293,3 años,Hombre,España,1973.0
+294,2 años,Mujer,,
+295,5 años,Mujer,Alguna ciudad española - España,1988.0
+296,5 años,Mujer,Alicante - España,1992.0
+297,5 años,Mujer,Madrid - España,1983.0
+298,1 año,Mujer,Vigo - España,1982.0
+299,9 años,,Toledo - España,1982.0
+300,10 años,Mujer,,
+301,11 meses,Hombre,Oirós - España,1988.0
+302,3 años,Mujer,Murcia - España,1993.0
+303,1 año,Mujer,,
+304,3 años,,Colmenar viejo - España,1910.0
+305,5 años,Mujer,Madrid - España,1984.0
+306,1 año,Hombre,Barcelona - España,1983.0
+307,3 años,,Madrid - España,1910.0
+308,3 años,Hombre,Lleida - España,1984.0
+309,6 años,Mujer,Zaragoza - España,1969.0
+310,1 mes,Hombre,------ - Argentina,2000.0
+311,4 meses,Mujer,Sevilla - España,1997.0
+312,4 años,Hombre,Sevilla - España,1983.0
+313,,Mujer,Getxo - España,1978.0
+314,,Hombre,Bilbao - España,1996.0
+315,,Mujer,,
+316,,Hombre,Cadalso de los vidrios - España,1952.0
+317,,Mujer,¿?,1981.0
+318,,Mujer,Alcala de henares - España,1973.0
+319,,Mujer,Navarra - España,1989.0
+320,,,Mundo mundial - España,1954.0
+321,,Mujer,Córdoba - España,1987.0
+322,,Hombre,Medellín - Colombia,1983.0
+323,,,España,
+324,,Mujer,Stuttgart - Gambia the,1986.0
+325,,Mujer,Huelva - España,1963.0
+326,,Mujer,España,1984.0
+327,,Mujer,España,1981.0
+328,,Mujer,Barcelona - España,1910.0
+329,,,España,
+330,,,úbeda - España,1966.0
+331,,Hombre,Envigado - Colombia,1972.0
+332,,Mujer,Parla - madrid - España,1974.0
+333,,,España,
+334,,Mujer,España,1910.0
+335,,,Bogota - Colombia,1991.0
+336,,Hombre,Telde - España,1963.0
+337,,Hombre,Albacete - España,1980.0
+338,,,Santiago - Cote d'Ivoire,1987.0
+339,,,Jerez de la frontera - España,1965.0
+340,,Mujer,Madrid - España,1967.0
+341,,Mujer,Madrid - España,
+342,,,Madrid - España,1988.0
+343,,,Martos (jaén) - España,1987.0
+344,,,España,
+345,,Mujer,España,1957.0
+346,,Mujer,Tarragona - España,1970.0
+347,,Mujer,Almería - España,1962.0
+348,,,Calahorra - España,1963.0
+349,,Mujer,España,1963.0
+350,,Mujer,Valencia - España,1983.0
+351,,Hombre,Tegucigalpa - Honduras,1969.0
+352,,Hombre,¿?,
+353,,Hombre,Barcelona - España,1970.0
+354,,Hombre,,
+355,,Mujer,Montevideo - Uruguay,1973.0
+356,,Hombre,Toluca - Mexico,1987.0
+357,,Hombre,Granada - España,1973.0
+358,,Mujer,,
+359,,Hombre,Sonora - Mexico,1989.0
+360,,Hombre,Valencia - España,1968.0
+361,,Hombre,Sabadell - España,1996.0
+362,,Hombre,Quito - Ecuador,1984.0
+363,,Hombre,Quito - Ecuador,1985.0
+364,,Hombre,La plata - Argentina,1996.0
+365,,Hombre,Neuquén - Argentina,1994.0
+366,,Hombre,Buenos aires - Argentina,1984.0
+367,,Hombre,Bolivar - Argentina,1986.0
+368,,Hombre,"Bogotá, d.c. - Colombia",1981.0
+369,,Hombre,Bogota - Colombia,1992.0
+370,,Hombre,Santiago - Chile,1994.0
+371,,Hombre,Monforte de lemos - España,
+372,,Hombre,Vélez-málaga - España,1973.0
+373,,Mujer,Zaragoza - España,1971.0
+374,,Mujer,Los realejos - España,1981.0
+375,,Hombre,Madrid - España,1910.0
+376,,Mujer,Katmandú - ¿?,1910.0
+377,,Hombre,Málaga - España,1995.0
+378,,,España,1990.0
+379,,Hombre,Sevilla - España,1987.0
+380,,Hombre,España,1984.0
+381,,Mujer,Barcelona - España,2011.0
+382,,Mujer,España,1971.0
+383,,Mujer,,
+384,,Mujer,Santiago - Chile,1967.0
+385,,Mujer,España,1992.0
+386,,Hombre,Madrid - España,1977.0
+387,,Hombre,Jaén - España,1972.0
+388,,Mujer,Pantoja - España,1982.0
+389,,Mujer,Llucmajor - España,1975.0
+390,,,España,
+391,,Mujer,Pozuelo - España,1969.0
+392,,,Moaña - España,1972.0
+393,,,España,
+394,,Mujer,Granada - España,1970.0
+395,,,España,
+396,,,España,1981.0
+397,,,España,
+398,,,España,
+399,,,España,1959.0
+400,,,España,
+401,,,España,
+402,,,E - España,1971.0
+403,,,Murcia - España,1910.0
+404,,,España,
+405,,,España,
+406,,Hombre,Valencia - España,1990.0
+407,,Hombre,Madrid - España,1987.0
+408,,Hombre,Bilbao - España,1981.0
+409,,Hombre,Valencia - España,1977.0
+410,,Hombre,Madrid - España,1984.0
+411,,Hombre,Premia de dalt - España,1995.0
+412,,Mujer,Baleares - España,2002.0
+413,,Mujer,Montevideo - Uruguay,1995.0
+414,,Hombre,Morelia - Mexico,1978.0
+415,,Hombre,Oviedo - España,1970.0
+416,,Hombre,Gijon - España,1978.0
+417,,Mujer,Almería - España,1987.0
+418,,Mujer,,
+419,,Hombre,Ciudad real - España,1983.0
+420,,Hombre,Albacete - España,1983.0
+421,,Hombre,Madrid - España,1984.0
+422,,Hombre,Madrid - España,1982.0
+423,,Hombre,,
+424,,Mujer,Casadelos-xubia - España,1975.0
+425,,,¿?,
+426,,Mujer,Santiago de cuba - Cuba,1976.0
+427,,Hombre,Bilbao - España,1982.0
+428,,Hombre,Bogotá - Colombia,1991.0
+429,,Hombre,"Bilbao, bizkaia - ¿?",1994.0
+430,,Hombre,Bogotá d.c - Colombia,1994.0
+431,,Mujer,Santiago de compostela - España,1959.0
+432,,Hombre,Madrid - Afghanistan,1981.0
+433,,,España,1910.0
+434,,Hombre,,
+435,,Hombre,Palma de mallorca - España,1970.0
+436,,Hombre,Bogota d.c - Colombia,1996.0
+437,,Hombre,Uruguay,1910.0
+438,,Hombre,Madrid - España,1982.0
+439,,Hombre,España,1967.0
+440,,Hombre,Barberà del vallès - España,1956.0
+441,,Hombre,Rancagua - Cote d'Ivoire,1983.0
+442,,Mujer,Barcelona - España,1987.0
+443,,Mujer,Barcelona - España,1992.0
+444,,Mujer,España,1979.0
+445,,Mujer,,
+446,,,España,1910.0
+447,,Mujer,España,1910.0
+448,,,España,1970.0
+449,,Hombre,Bucaramanga - Colombia,1995.0
+450,,Hombre,León - Mexico,1973.0
+451,,Mujer,Madrid - España,1949.0
+452,,Mujer,Venezuela,1985.0
+453,,,España,
+454,,Hombre,Mexico,1988.0
+455,,,España,
+456,,Mujer,Santa cruz tenerife - España,1965.0
+457,,Hombre,Santa cruz de tenerife - España,1967.0
+458,,,España,1910.0
+459,,Hombre,Palma de mallorca - España,1910.0
+460,,Mujer,Murcia - España,1976.0
+461,,,España,1910.0
+462,,,España,
+463,,Hombre,Santillana - España,1975.0
+464,,Mujer,Caracas - Venezuela,1975.0
+465,,,España,
+466,,Hombre,Madrid - España,1991.0
+467,,Mujer,Santander - España,1973.0
+468,,Mujer,Sevilla - España,1984.0
+469,,,España,
+470,,Mujer,Santiago - Cote d'Ivoire,1985.0
+471,,,Argentina,1987.0
+472,,Mujer,La plata - Argentina,1975.0
+473,,Hombre,Neuquén - Argentina,1963.0
+474,,Mujer,Heredia -,1984.0
+475,,Hombre,Alcobendas - España,1968.0
+476,,Hombre,Encarnación - Panama,1992.0
+477,,Hombre,Madrid - España,1965.0
+478,,Mujer,Ramiras orense - España,1962.0
+479,,Hombre,Barcelona - España,1963.0
+480,,Mujer,España,1979.0
+481,,Mujer,Distrito federal - Mexico,1974.0
+482,,Mujer,España,1969.0
+483,,,Ciudad de mexico - Mexico,1983.0
+484,,,Corrientes - Argentina,1986.0
+485,,,España,1971.0
+486,,,Argentina,1985.0
+487,,,España,1910.0
+488,,,Argentina,
+489,,,Badajoz - España,1986.0
+490,,,España,1987.0
+491,,Hombre,Oviedo - España,1971.0
+492,,,Argentina,1991.0
+493,,Mujer,Cádiz - España,1984.0
+494,,,España,
+495,,Mujer,España,1970.0
+496,,,España,
+497,,,España,1971.0
+498,,,España,
+499,,,España,
+500,,,Carabobo - Venezuela,1987.0
+501,,Mujer,,
+502,,Mujer,España,1980.0
+503,,,España,
+504,,Mujer,Huelva - España,1974.0
+505,,,España,
+506,,,Mexico,
+507,,,España,
+508,,,Mexico,
+509,,,España,
+510,,,Madrid - España,1910.0
+511,,Hombre,Bilbao - España,1965.0
+512,,,La coruña - España,1960.0
+513,,,España,1910.0
+514,,Mujer,Tarragona - España,1984.0
+515,,,España,
+516,,Mujer,,
+517,,,España,1910.0
+518,,,Cote d'Ivoire,
+519,,,Santiago de compostela - España,
+520,,,O grove - España,1992.0
+521,,,España,
+522,,,España,
+523,,,España,
+524,,,España,
+525,,,España,
+526,,Hombre,Canet de mar - España,1972.0
+527,,,España,
+528,,,España,
+529,,,España,
+530,,,España,1962.0
+531,,,España,
+532,,,España,
+533,,,Mexico,
+534,,,España,
+535,,,España,
+536,,,España,
+537,,Hombre,Salamanca - España,1968.0
+538,,Mujer,Ecuador,1978.0
+539,,,España,
+540,,,Argentina,
+541,,Mujer,San sebastian - España,1958.0
+542,,Mujer,Barcelona - España,1973.0
+543,,,España,
+544,,,España,
+545,,,España,1976.0
+546,,Hombre,Cartago - Costa Rica,1972.0
+547,,,España,
+548,,Mujer,La plata - Argentina,1949.0
+549,,,España,
+550,,,España,
+551,,,España,
+552,,,España,
+553,,,España,
+554,,,España,
+555,,,España,
+556,,,España,
+557,,,España,
+558,,,España,
+559,,,España,
+560,,,Mexico,
+561,,,España,
+562,,Hombre,Buenos aires - Argentina,1974.0
+563,,Hombre,Argentina,1981.0
+564,,Mujer,9 de julio -buenos aires - Argentina,1961.0
+565,,Hombre,Madrid - España,1984.0
+566,,Hombre,Madrid - España,1984.0
+567,,Hombre,Sevilla - España,1956.0
+568,,Mujer,Puertollano - España,1982.0
+569,,Hombre,Vicente lopez - Argentina,1991.0
+570,,Hombre,¿?,
+571,,Hombre,Pamplona - España,1976.0
+572,,Hombre,Madrid - España,1989.0
+573,,Mujer,Madrid - España,1990.0
+574,,Hombre,Toledo - España,1959.0
+575,,Mujer,Castelldefels - España,1968.0
+576,,,Madrid - España,1910.0
+577,,,España,
+578,,,Vigo - España,1950.0
+579,,,España,
+580,,,Argentina,
+581,,,Oviedo - España,1972.0
+582,,Mujer,Madrid - España,1956.0
+583,,,España,
+584,,,España,
+585,,,España,1910.0
+586,,Hombre,España,1970.0
+587,,,Lima - Peru,1984.0
+588,,Hombre,Valencia - España,1978.0
+589,,Hombre,Lake mary - United States of America,1910.0
+590,,,España,1910.0
+591,,Mujer,Fredrikstad - Norway,1985.0
+592,,,Netherlands Antilles,
+593,,,A coruña - España,1960.0
+594,,,España,1910.0
+595,,Mujer,¿?,
+596,,Mujer,,
+597,,Hombre,,
+598,,Hombre,Zaragoza - España,1992.0
+599,,Mujer,Bogota - Colombia,1982.0
+600,,,España,
+601,,,España,
+602,,,España,
+603,,Hombre,Hialeah - United States of America,1990.0
+604,,Hombre,España,1985.0
+605,,Hombre,Netherlands the,1992.0
+606,,,Madrid - España,1977.0
+607,,,España,
+608,,Hombre,Villarrobledo - España,1989.0
+609,,Hombre,Madrid - España,1971.0
+610,,,Peru,1910.0
+611,,,España,
+612,,,,
+613,,Mujer,Barcelona - España,1986.0
+614,,,España,1981.0
+615,,,Alzira - España,1973.0
+616,,Mujer,San miguel de tucumán - Argentina,1988.0
+617,,Mujer,Jaén - España,1964.0
+618,,Hombre,,
+619,,,Madrid - España,1966.0
+620,,Mujer,ávila - España,1994.0
+621,,Mujer,Madrid - España,1992.0
+622,,Mujer,La virgen del camino - Afghanistan,1982.0
+623,,Hombre,Madrid - España,1949.0
+624,,Mujer,Colombia,1955.0
+625,,Mujer,España,1968.0
+626,,,España,
+627,,Hombre,Vigo - España,1952.0
+628,,,España,
+629,,Hombre,Getafe - España,1971.0
+630,,Mujer,Cáceres - España,1986.0
+631,,Mujer,Burgos - España,1968.0
+632,,,España,1985.0
+633,,,Albacete - España,1948.0
+634,,Hombre,Caracas - Venezuela,1976.0
+635,,,Málaga - España,1955.0
+636,,,España,1961.0
+637,,Hombre,España,1910.0
+638,,Mujer,Palma - España,1973.0
+639,,Hombre,Valladolid - España,1974.0
+640,,Mujer,Santiago - Chile,1986.0
+641,,Hombre,Guadalajara - Mexico,1994.0
+642,,Mujer,,
+643,,Mujer,,
+644,,Hombre,Madrid - España,1972.0
+645,,Mujer,Leon - España,1965.0
+646,,Mujer,Madrid - España,1965.0
+647,,Hombre,Sallent - España,1962.0
+648,,,Palencia - España,1967.0
+649,,Mujer,,
+650,,Hombre,Rosario - Argentina,1990.0
+651,,Hombre,,
+652,,Hombre,Buenos aires - Argentina,1968.0
+653,,Mujer,Pamplona - España,1989.0
+654,,,Madrid - España,1982.0
+655,,Hombre,,
+656,,Mujer,Madrid - España,1970.0
+657,,Hombre,Ciudad autonoma de buenos aires - Argentina,1995.0
+658,,Mujer,Sevilla - España,1965.0
+659,,Mujer,Toledo - España,1981.0
+660,,Mujer,Santa cruz de tenerife - España,1983.0
+661,,Mujer,Cuauhtemoc - Mexico,1993.0
+662,,,¿?,
+663,,Hombre,,
+664,,Mujer,Sevilla - España,1993.0
+665,,,,
+666,,Mujer,Madrid - España,1990.0
+667,,Mujer,Córdoba - España,1966.0
+668,,Hombre,Capital - Argentina,1981.0
+669,,,¿?,
+670,,Mujer,Barcelona - España,1982.0
+671,,Hombre,¿?,
+672,,Hombre,Torrejón de ardoz - España,1987.0
+673,,,¿?,
+674,,,¿?,
+675,,Mujer,,
+676,,,España,
+677,,Hombre,Barcelona - Afghanistan,1979.0
+678,,Hombre,Madrid - ¿?,
+679,,Mujer,,
+680,,,España,
+681,,Hombre,Monforte de lemos - España,1988.0
+682,,Mujer,La coruña - España,1973.0
+683,,,España,1979.0
+684,,Hombre,Valls - España,1977.0
+685,,Hombre,Santiago - Chile,1988.0
+686,,Hombre,"Saltillo, coah - Mexico",1984.0
+687,,,Veracruz - Mexico,1988.0
+688,,,España,1974.0
+689,,,España,
+690,,Hombre,Madrid - España,1994.0
+691,,,España,
+692,,Hombre,Madrid - España,1985.0
+693,,Mujer,Mostoles - España,1992.0
+694,,,España,1987.0
+695,,Mujer,España,1986.0
+696,,,Córdoba - España,1967.0
+697,,,España,1980.0
+698,,Mujer,,
+699,,Hombre,Chihuahua - Mexico,1998.0
+700,,Mujer,Santiago - Cote d'Ivoire,1990.0
+701,,Mujer,Windsor - United Kingdom,1976.0
+702,,Mujer,España,1983.0
+703,,Mujer,Jalisco - Mexico,1998.0
+704,,Hombre,Rosario - Argentina,1993.0
+705,,,España,
+706,,Mujer,Buenos aires - Argentina,1989.0
+707,,Mujer,Tarragona - España,1982.0
+708,,Hombre,México - Mexico,1992.0
+709,,Mujer,Valencia - España,1995.0
+710,,Mujer,Valencia - Venezuela,1995.0
+711,,Hombre,Tijuana - España,2000.0
+712,,Hombre,Buenos aires - Argentina,1990.0
+713,,Mujer,Mexico,1996.0
+714,,Hombre,Córdoba - España,1985.0
+715,,,España,
+716,,Hombre,Valladolid - España,1997.0
+717,,Hombre,Sopela - España,1991.0
+718,,Mujer,Santiago - Cote d'Ivoire,1968.0
+719,,Mujer,España,1910.0
+720,,Mujer,España,1986.0
+721,,,Alcoy - España,1986.0
+722,,Mujer,Sevilla - España,1977.0
+723,,Mujer,Madrid - España,1964.0
+724,,Mujer,España,1984.0
+725,,Hombre,Granada - España,1984.0
+726,,,España,
+727,,,España,1983.0
+728,,Mujer,Granollers - España,1974.0
+729,,Mujer,Madrid - España,1997.0
+730,,Mujer,,
+731,,Hombre,¿?,
+732,,,España,1974.0
+733,,,Las rozas - España,1973.0
+734,,Mujer,Ponferrada - España,1979.0
+735,,Mujer,,
+736,,Hombre,Villanueva de la cañada - España,1974.0
+737,,,España,1978.0
+738,,Hombre,,
+739,,,España,1967.0
+740,,,España,
+741,,Mujer,Blanes - España,1973.0
+742,,Hombre,Maracaibo - Venezuela,1971.0
+743,,Hombre,,
+744,,Mujer,Madrid - España,1989.0
+745,,Hombre,Cordoba - Argentina,1993.0
+746,,Mujer,Mazatlán - Mexico,1961.0
+747,,Mujer,España,1986.0
+748,,Mujer,Bsas - Argentina,1973.0
+749,,Mujer,España,1983.0
+750,,,España,
+751,,Hombre,Puertollano - España,1983.0
+752,,Hombre,Madrid - España,1974.0
+753,,Mujer,Vigo - España,1984.0
+754,,Hombre,Bogot - Colombia,1997.0
+755,,Mujer,Temuco - Chile,1996.0
+756,,Hombre,Trujillo - Peru,1910.0
+757,,Hombre,Capital federal - Argentina,1979.0
+758,,,Buenos aires - Argentina,1997.0
+759,,Hombre,Pergamino - Argentina,1991.0
+760,,Hombre,Málaga - España,1986.0
+761,,Hombre,Madrid - España,1910.0
+762,,Hombre,Barcelona - España,1985.0
+763,,Hombre,Madrid - España,1975.0
+764,,Mujer,,
+765,,Hombre,El colorado - Argentina,1990.0
+766,,Hombre,Bahia blanca - Argentina,1984.0
+767,,Hombre,Cáceres - España,1977.0
+768,,Hombre,Bogota - Colombia,1992.0
+769,,Hombre,Burgos - España,1999.0
+770,,Mujer,Madrid - España,1986.0
+771,,Hombre,España,1992.0
+772,,Mujer,Hermosillo - Mexico,1989.0
+773,,Hombre,Tegucigalpa - Honduras,1993.0
+774,,,España,
+775,,Hombre,Buenos aires - Argentina,1998.0
+776,,Mujer,Canelones - Uruguay,1998.0
+777,,,España,
+778,,Hombre,General pico - Argentina,1987.0
+779,,Mujer,San mateo atenco - Mexico,1984.0
+780,,Hombre,Cartagena - España,1957.0
+781,,,Aa - España,1916.0
+782,,Hombre,Madrid - España,1985.0
+783,,,España,
+784,,Mujer,¿?,1996.0
+785,,,España,
+786,,Hombre,Badajoz - España,1992.0
+787,,Hombre,Cdmx - Mexico,1993.0
+788,,Hombre,Bogota - Colombia,1988.0
+789,,Mujer,Acarigua - Venezuela,1984.0
+790,,Hombre,Chetumal - Mexico,1991.0
+791,,Hombre,Tenerife - España,1965.0
+792,,Mujer,,
+793,,Hombre,Guatemala - Guatemala,1992.0
+794,,Hombre,España,1910.0
+795,,,España,
+796,,,España,
+797,,Mujer,España,1982.0
+798,,Mujer,Santo domingo -,1993.0
+799,,Mujer,Barbate - España,1988.0
+800,,Hombre,Sant cugat - España,1990.0
+801,,Mujer,Puerto Rico,1994.0
+802,,Hombre,Buenos aires - Argentina,1962.0
+803,,,Tepatitán - Mexico,1985.0
+804,,Hombre,Oviedo - España,1985.0
+805,,Hombre,España,1943.0
+806,,,España,
+807,,,Bs. as. - Argentina,1981.0
+808,,,San francisco - Afghanistan,
+809,,,España,
+810,,Hombre,Granada - España,1989.0
+811,,,Mexico,
+812,,Hombre,Talavera de la reina - España,1962.0
+813,,Hombre,México city - Mexico,1976.0
+814,,,Mexico,
+815,,,España,
+816,,,España,
+817,,,Cote d'Ivoire,
+818,,Hombre,Buenos aires - Argentina,1981.0
+819,,Mujer,Santa coloma de gramenet - España,1970.0
+820,,Hombre,Cdmx - Mexico,1997.0
+821,,,Córdoba - España,1983.0
+822,,Hombre,Madrid - España,1996.0
+823,,Hombre,Las rozas de madrid - España,1979.0
+824,,Mujer,Alicante - España,1989.0
+825,,,España,
+826,,Mujer,España,1985.0
+827,,,España,1991.0
+828,,,España,1989.0
+829,,,España,
+830,,Hombre,Donostia - España,1986.0
+831,,Mujer,Toledo - España,1984.0
+832,,Hombre,Huelva - España,1977.0
+833,,Mujer,Las palmas - España,1987.0
+834,,Mujer,España,1991.0
+835,,Hombre,Valencia - España,1977.0
+836,,Mujer,San vicente del raspeig - España,1993.0
+837,,Mujer,Mexico,1955.0
+838,,Hombre,,
+839,,Mujer,Rosario - Argentina,1991.0
+840,,Mujer,Madrid - España,1986.0
+841,,Hombre,Capital federal - Argentina,1989.0
+842,,Mujer,Guanajuato - Mexico,1981.0
+843,,Hombre,Dubai - España,1972.0
+844,,Mujer,Chihuahua - Mexico,1989.0
+845,,Hombre,Albacete - España,1990.0
+846,,,Xxxxxxxxxx - España,1983.0
+847,,Hombre,Valencia - España,1987.0
+848,,Hombre,Santa cruz de la sierra - Bolivia,1910.0
+849,,Hombre,Trujillo - Peru,1994.0
+850,,Mujer,Xalapa - Mexico,1974.0
+851,,Hombre,Trelew - Argentina,1983.0
+852,,Mujer,Marbella - España,1979.0
+853,,,España,
+854,,Hombre,Palma de mallorca - España,1982.0
+855,,Mujer,Sanlúcar de barrameda - España,1967.0
+856,,Hombre,Mar del plata - Argentina,1989.0
+857,,Mujer,Freehold - United States of America,1989.0
+858,,Mujer,,
+859,,Mujer,Teruel - España,1986.0
+860,,Hombre,Bogota d.c - Colombia,1996.0
+861,,Hombre,Santiago de compostela - España,1981.0
+862,,Hombre,Sabadell - España,1965.0
+863,,Hombre,Guadalajara - Mexico,1966.0
+864,,Mujer,Málaga - España,1986.0
+865,,Mujer,Jaén - España,1996.0
+866,,Hombre,Peñaranda de bracamonte - España,1983.0
+867,,Mujer,España,1989.0
+868,,Hombre,Sevilla - España,1995.0
+869,,Hombre,España,1910.0
+870,,Hombre,Murcia - España,1971.0
+871,,Hombre,España,1991.0
+872,,Hombre,Arequipa - Peru,1974.0
+873,,Mujer,Sao paulo - Brazil,1971.0
+874,,,España,1910.0
+875,,Hombre,Madrid - España,1982.0
+876,,,España,
+877,,,España,
+878,,Mujer,Vizcaya - España,1973.0
+879,,,Salta - Argentina,1990.0
+880,,Mujer,Madrid - España,1985.0
+881,,Mujer,Ciudad autònoma de buenos aires - Argentina,1973.0
+882,,,España,1910.0
+883,,Hombre,Santa coloma de gramenet - España,1974.0
+884,,Hombre,Ixtapa-zihuatanejo - Mexico,1967.0
+885,,Hombre,Santa cruz de la sierra - Saint Barthelemy,1971.0
+886,,Hombre,Santa cruz de bezana - España,1987.0
+887,,Hombre,Bogota - Colombia,1996.0
+888,,Hombre,Buenos aires - Argentina,1910.0
+889,,Hombre,Buenos aires - Argentina,1990.0
+890,,Hombre,Alicante - España,1984.0
+891,,Mujer,Murcia - España,1984.0
+892,,,España,
+893,,Mujer,España,1981.0
+894,,,España,1994.0
+895,,,Malaga - España,1971.0
+896,,,Malaga - España,1981.0
+897,,,Málaga - España,1982.0
+898,,,España,1962.0
+899,,,España,1969.0
+900,,,España,
+901,,,España,1985.0
+902,,,Medellin - Colombia,1984.0
+903,,,España,
+904,,,Bcn - España,1980.0
+905,,,Mexico - Mexico,1992.0
+906,,,España,1985.0
+907,,,España,
+908,,,España,
+909,,Hombre,Eritrea - España,1967.0
+910,,,España,
+911,,,España,1979.0
+912,,,España,
+913,,,España,
+914,,Mujer,,
+915,,,España,
+916,,,España,
+917,,,España,
+918,,,España,
+919,,,España,
+920,,,España,
+921,,,España,
+922,,,España,
+923,,,Honduras,
+924,,,España,
+925,,,España,
+926,,Hombre,Madrid - España,1987.0
+927,,,España,
+928,,,España,
+929,,,España,
+930,,,España,
+931,,,España,
+932,,,España,
+933,,,España,
+934,,,España,
+935,,,España,
+936,,,España,
+937,,,España,
+938,,,España,
+939,,,España,
+940,,,España,
+941,,,España,
+942,,,España,1910.0
+943,,,España,
+944,,,España,
+945,,,España,
+946,,,España,
+947,,,España,
+948,,,Netherlands Antilles,
+949,,,España,
+950,,,España,
+951,,,España,
+952,,,España,
+953,,,España,
+954,,,España,1981.0
+955,,,España,
+956,,,Melilla - España,1965.0
+957,,,España,
+958,,,España,
+959,,,España,1910.0
+960,,,España,
+961,,,España,
+962,,,España,
+963,,,España,
+964,,,España,
+965,,Hombre,Tenerife - España,1910.0
+966,,Hombre,Medellin - Colombia,1992.0
+967,,Hombre,Zaragoza - España,1977.0
+968,,Hombre,Cuenca - España,1982.0
+969,,Hombre,España,1910.0
+970,,Hombre,España,1958.0
+971,,,España,
+972,,,España,1972.0
+973,,Mujer,Burgos - España,1967.0
+974,,,España,1968.0
+975,,,España,
+976,,,Cuba,
+977,,Mujer,Barcelona - España,1970.0
+978,,Hombre,Madrid - España,1996.0
+979,,Mujer,,
+980,,Hombre,Málaga - España,1998.0
+981,,Mujer,Almería - España,1994.0
+982,,Mujer,Bilbao - España,1987.0
+983,,Mujer,España,1987.0
+984,,Mujer,Badalona - España,2003.0
+985,,Mujer,España,1992.0
+986,,Hombre,Sevilla - España,1993.0
+987,,Hombre,España,1988.0
+988,,Mujer,California - United States of America,1967.0
+989,,Hombre,Ponferrada - España,1980.0
+990,,,España,
+991,,,Barcelona - España,1990.0
+992,,,España,
+993,,,Argentina,
+994,,Hombre,Girona - España,1978.0
+995,,Hombre,,
+996,,Mujer,España,1985.0
+997,,,España,
+998,,,España,1910.0
+999,,,España,1974.0
+1000,,,Cáceres - España,1967.0
+1001,,Hombre,Madrid - España,1989.0
+1002,,Hombre,Jaén - Afghanistan,1944.0
+1003,,Hombre,Bilbao - España,1999.0
+1004,,Mujer,,
+1005,,Mujer,Bilbao - España,1976.0
+1006,,Mujer,Madrid - España,1971.0
+1007,,,España,
+1008,,Mujer,Granada - España,1975.0
+1009,,Mujer,Argentina,1999.0
+1010,,,¿?,
+1011,,Mujer,Sevilla - España,1981.0
+1012,,Mujer,Una - España,
+1013,,Mujer,Cáceres - España,1994.0
+1014,,,España,
+1015,,,España,1973.0
+1016,,Mujer,Bogotá - Colombia,2004.0
+1017,,Mujer,Pasto - Colombia,1988.0
+1018,,,Ciudad real - España,1988.0
+1019,,Mujer,España,1960.0
+1020,,,Madrid - España,1975.0
+1021,,,España,
+1022,,Mujer,Málaga - ¿?,
+1023,,Hombre,San fernando - España,1985.0
+1024,,Mujer,Buenos aires - Argentina,1977.0
+1025,,,Cd. juárez - Mexico,1991.0
+1026,,,Barcelona - España,1983.0
+1027,,Mujer,Santiago - Chile,1984.0
+1028,,Mujer,Madrid - España,1972.0
+1029,,Hombre,"San pedro garza garcía, nl méxico - Mexico",1957.0
+1030,,Hombre,Valencia - España,1966.0
+1031,,Mujer,Santiago - Cote d'Ivoire,1998.0
+1032,,Mujer,Málaga - España,1988.0
+1033,,,Ourense - España,2011.0
+1034,,Hombre,Sóller - España,1971.0
+1035,,Mujer,¿?,
+1036,,Mujer,España,1986.0
+1037,,Mujer,,
+1038,,Hombre,España,1910.0
+1039,,Hombre,Martos - España,1988.0
+1040,,,Burriana - España,1971.0
+1041,,Mujer,Palma - España,1965.0
+1042,,Mujer,Ourense - España,1976.0
+1043,,Mujer,¿?,
+1044,,,España,
+1045,,Hombre,Veracruz - Mexico,1972.0
+1046,,Mujer,Alaejos - España,1973.0
+1047,,,Oviedo - España,1984.0
+1048,,Hombre,Mexico - Mexico,1990.0
+1049,,,Madrid - España,1978.0
+1050,,,Venezuela,1974.0
+1051,,,Tulancingo - Mexico,1972.0
+1052,,Mujer,Bilbao - Afghanistan,1974.0
+1053,,Mujer,España,1980.0
+1054,,Mujer,España,1976.0
+1055,,,España,1987.0
+1056,,Mujer,España,1988.0
+1057,,Mujer,Lepe - España,1976.0
+1058,,Hombre,Madrid - España,1982.0
+1059,,,España,
+1060,,Mujer,Sofia - Bulgaria,1981.0
+1061,,Mujer,Castalla - España,1982.0
+1062,,,España,
+1063,,,España,
+1064,,Hombre,¿?,
+1065,,Mujer,Buenos aires - Argentina,1962.0
+1066,,Hombre,Alicante - España,1990.0
+1067,,,España,1910.0
+1068,,Mujer,Barcelona - España,1980.0
+1069,,Hombre,España,1910.0
+1070,,Hombre,Viña del mar - Chile,2003.0
+1071,,Hombre,¿?,
+1072,,Hombre,Valencia - España,1995.0
+1073,,Mujer,Madrid - España,1973.0
+1074,,Hombre,Madrid - España,1963.0
+1075,,Hombre,Manizales - Colombia,1998.0
+1076,,,España,1985.0
+1077,,,Gotham - España,1964.0
+1078,,,España,
+1079,,,España,
+1080,,Hombre,Córdoba - España,1994.0
+1081,,,España,1974.0
+1082,,,España,
+1083,,,Argentina,1910.0
+1084,,Mujer,Sevilla - España,1989.0
+1085,,,España,
+1086,,Hombre,Santa cruz de tenerife - España,1967.0
+1087,,Hombre,España,1957.0
+1088,,Mujer,España,1967.0
+1089,,,España,
+1090,,Hombre,Parla - España,1996.0
+1091,,Hombre,Alcalá de henares - España,1983.0
+1092,,,Concepción - Cote d'Ivoire,1993.0
+1093,,,España,
+1094,,Hombre,Madrid - España,1986.0
+1095,,Hombre,Coin - España,1971.0
+1096,,Hombre,Terrassa - España,1965.0
+1097,,Mujer,La palma de cervelló - España,1978.0
+1098,,Mujer,Madrid - España,1986.0
+1099,,Hombre,Antequera - España,1992.0
+1100,,Mujer,Jaén - España,1978.0
+1101,,Hombre,Buenos aires - Argentina,1975.0
+1102,,Mujer,Madrid - Afghanistan,1986.0
+1103,,Hombre,Montevideo - Uruguay,1982.0
+1104,,Hombre,Barcelona - España,1990.0
+1105,,Mujer,Medellín - Colombia,1995.0
+1106,,Hombre,Oruro - Bolivia,1984.0
+1107,,Hombre,Lampa - Chile,2001.0
+1108,,Hombre,San salvador - El Salvador,1982.0
+1109,,Hombre,¿?,
+1110,,Hombre,Vigo - ¿?,1992.0
+1111,,Mujer,Buenos aires - Argentina,1977.0
+1112,,Hombre,Maracaibo - Venezuela,1988.0
+1113,,Hombre,Cd. juárez - Mexico,1988.0
+1114,,Hombre,Madrid - España,1998.0
+1115,,Mujer,Veracruz - Mexico,1991.0
+1116,,Mujer,Fuentesnuevas - España,1962.0
+1117,,Mujer,,
+1118,,Hombre,España,1990.0
+1119,,,España,
+1120,,,España,
+1121,,Mujer,,
+1122,,Hombre,Argentina,1974.0
+1123,,Mujer,España,1990.0
+1124,,Hombre,Pinto - España,1975.0
+1125,,Mujer,Buenos aires - Argentina,1974.0
+1126,,Mujer,Madrid - España,1963.0
+1127,,Mujer,Ciudad autonoma de buenos aires - Argentina,1985.0
+1128,,Hombre,Saint Barthelemy,1990.0
+1129,,Hombre,,1991.0
+1130,,,España,1910.0
+1131,,Mujer,Madrid - España,1984.0
+1132,,Hombre,Valencia - España,1980.0
+1133,,,Sevilla - España,1981.0
+1134,,Hombre,Madrid - España,1966.0
+1135,,Hombre,Argentina,1986.0
+1136,,,España,
+1137,,Mujer,Barccelona - España,1981.0
+1138,,,España,
+1139,,Mujer,Lima - Peru,1990.0
+1140,,Mujer,España,1990.0
+1141,,Mujer,Cádiz - España,1984.0
+1142,,Hombre,Palma - España,1990.0
+1143,,Hombre,Oaxaca - Mexico,1988.0
+1144,,Hombre,Mieres - España,1994.0
+1145,,Hombre,Cáceres - España,1970.0
+1146,,,España,
+1147,,Mujer,Barcelona - España,1985.0
+1148,,Mujer,Alcázar de san juan - España,1992.0
+1149,,Hombre,Cádiz - España,1983.0
+1150,,Hombre,España,1985.0
+1151,,,España,
+1152,,Mujer,España,1978.0
+1153,,Hombre,Madrid - España,1978.0
+1154,,,Sevilla - España,1981.0
+1155,,,Hermosillo - Mexico,2000.0
+1156,,,Vigo - España,1971.0
+1157,,,España,
+1158,,Mujer,Lima - Peru,1979.0
+1159,,,España,1979.0
+1160,,,,1987.0
+1161,,,Santiago - Cote d'Ivoire,1966.0
+1162,,,España,1967.0
+1163,,Mujer,Barcelona - España,1981.0
+1164,,,España,
+1165,,,Maracaibo - Venezuela,1979.0
+1166,,,España,
+1167,,,Cali - Colombia,1965.0
+1168,,,España,
+1169,,,España,
+1170,,Mujer,España,1983.0
+1171,,Mujer,¿?,
+1172,,Hombre,Tres cantos - España,1969.0
+1173,,Mujer,Zaragoza - España,1961.0
+1174,,,España,1974.0
+1175,,Hombre,Berazategui - Argentina,1996.0
+1176,,Hombre,Las palmas de gc - España,1978.0
+1177,,,España,1910.0
+1178,,,,
+1179,,Mujer,Palma de mallorca - España,1975.0
+1180,,Mujer,,1963.0
+1181,,Hombre,Poza rica de hidalgo - Mexico,1981.0
+1182,,Mujer,,
+1183,,Hombre,Lima - Peru,1996.0
+1184,,Mujer,O porriño - España,1979.0
+1185,,Mujer,¿?,
+1186,,Mujer,España,1979.0
+1187,,Mujer,España,1987.0
+1188,,Mujer,Collado villalba - España,1987.0
+1189,,Mujer,España,1977.0
+1190,,Mujer,Huelva - España,1973.0
+1191,,Mujer,Sevilla - España,1996.0
+1192,,Hombre,Orihuela - España,1996.0
+1193,,Mujer,Madrid - España,1983.0
+1194,,,San luis potosi - Mexico,1992.0
+1195,,Hombre,Mexico,1997.0
+1196,,Mujer,Madrid - España,1991.0
+1197,,Mujer,"Santiago, chile - Cote d'Ivoire",1985.0
+1198,,Hombre,Tarragona - España,1981.0
+1199,,,Mexico,
+1200,,,España,
+1201,,Mujer,Madrid - España,1982.0
+1202,,,Murcia - España,1969.0
+1203,,,Malaga - España,1974.0
+1204,,Mujer,Madrid - España,1991.0
+1205,,Mujer,Madrid - España,1986.0
+1206,,Mujer,Cote d'Ivoire,1999.0
+1207,,Mujer,Pamplona - España,1997.0
+1208,,Mujer,Valencia - España,1999.0
+1209,,Mujer,Cochabamba - Saint Barthelemy,2000.0
+1210,,Mujer,España,1910.0
+1211,,Mujer,España,1991.0
+1212,,,España,
+1213,,Mujer,Torre del mar - España,1991.0
+1214,,Hombre,Barcelona - España,1981.0
+1215,,Mujer,Madrid - España,1991.0
+1216,,Mujer,Madrid - España,1960.0
+1217,,Mujer,Alpedrete madrid - España,1949.0
+1218,,,España,
+1219,,,España,
+1220,,Mujer,España,1979.0
+1221,,Hombre,Gómez palacio durango - Mexico,1999.0
+1222,,Hombre,España,1934.0
+1223,,Hombre,Santiago - Chile,1981.0
+1224,,Mujer,Mexico - Mexico,1910.0
+1225,,Hombre,Las palmas - España,1997.0
+1226,,Hombre,Cordoba - Argentina,1992.0
+1227,,Hombre,Ciudad de méxico - Mexico,1984.0
+1228,,Hombre,Palma de mallorca - España,1981.0
+1229,,Mujer,Barakaldo - España,1987.0
+1230,,Mujer,Santiago - Chile,1989.0
+1231,,Hombre,,
+1232,,Mujer,Madrid - España,1999.0
+1233,,Mujer,Barcelona - España,1990.0
+1234,,Hombre,¿?,
+1235,,Mujer,¿?,
+1236,,Hombre,Guadalajara - Mexico,1997.0
+1237,,Mujer,,
+1238,,Hombre,Medellín - Colombia,2001.0
+1239,,Hombre,Saniago - Cote d'Ivoire,1982.0
+1240,,Mujer,Colombia,1996.0
+1241,,Mujer,Santiago - Cote d'Ivoire,1995.0
+1242,,,Medellín - Colombia,1995.0
+1243,,Hombre,Huelva - España,1995.0
+1244,,Mujer,Mexico,1995.0
+1245,,Hombre,Alajuela -,1999.0
+1246,,Hombre,Barcelona - España,1992.0
+1247,,,España,
+1248,,Hombre,Talca - Cote d'Ivoire,1990.0
+1249,,,El puerto de santa maria - España,1989.0
+1250,,Mujer,Mendoza - Argentina,1994.0
+1251,,Hombre,España,1910.0
+1252,,Mujer,Madrid - España,1966.0
+1253,,Hombre,Sevilla - España,2000.0
+1254,,,España,
+1255,,Mujer,Zacatecas - Mexico,2000.0
+1256,,Mujer,Argentina,1910.0
+1257,,,España,
+1258,,Hombre,Madrid - España,1988.0
+1259,,Hombre,Barquisimeto - Venezuela,1994.0
+1260,,Hombre,Navojoa - Mexico,1998.0
+1261,,Mujer,Palma de mallorca - España,1990.0
+1262,,Mujer,La serena - Chile,1998.0
+1263,,Hombre,Pamlona - Peru,1991.0
+1264,,Mujer,San jose -,1993.0
+1265,,Hombre,Ecuador,1991.0
+1266,,Mujer,"Laurel, md - United States of America",1985.0
+1267,,Mujer,Montevideo - Uruguay,2000.0
+1268,,Mujer,Df - Mexico,1982.0
+1269,,Mujer,Ciudad de mexico - Mexico,1991.0
+1270,,,España,1989.0
+1271,,Mujer,Vigo - España,1971.0
+1272,,Mujer,España,1967.0
+1273,,,Granada - España,1987.0
+1274,,Hombre,Málaga - España,1969.0
+1275,,Mujer,,
+1276,,,Cordoba - España,1977.0
+1277,,,España,1975.0
+1278,,,Santa fe - Argentina,1992.0
+1279,,,Sevilla - España,1976.0
+1280,,,España,
+1281,,,Mexico,
+1282,,,España,
+1283,,,España,1977.0
+1284,,,,
+1285,,Mujer,Madrid - España,1943.0
+1286,,,España,1910.0
+1287,,Mujer,Madrid - España,1972.0
+1288,,Mujer,España,1966.0
+1289,,Mujer,Rivas-vaciamadrid - España,1974.0
+1290,,Hombre,Capital federal - Argentina,1994.0
+1291,,Mujer,Barcelona - España,1994.0
+1292,,Hombre,Logroño - España,1961.0
+1293,,Mujer,Culiacan - Mexico,1977.0
+1294,,Mujer,Binéfar - España,1989.0
+1295,,Hombre,Madrid - España,1992.0
+1296,,Mujer,Murcia - España,1987.0
+1297,,Hombre,Lima - Peru,1998.0
+1298,,Hombre,Santa fe - Argentina,1993.0
+1299,,Mujer,Murcia - España,1984.0
+1300,,Hombre,Santa fe - Argentina,1964.0
+1301,,Hombre,Rosario - Argentina,1994.0
+1302,,Hombre,Mundaka - Afghanistan,1993.0
+1303,,Hombre,Buenos aires - Argentina,1972.0
+1304,,Hombre,Torrevieja - España,1993.0
+1305,,Hombre,Madrid - España,1989.0
+1306,,Hombre,¿?,
+1307,,Hombre,A coruña - España,1980.0
+1308,,Hombre,Almeria - España,1975.0
+1309,,Hombre,Jaén - España,1991.0
+1310,,Mujer,Mexico,1992.0
+1311,,,España,1992.0
+1312,,Mujer,Buenos aires - Argentina,1998.0
+1313,,,Sevilla - España,
+1314,,Mujer,,
+1315,,Hombre,Mexico,1990.0
+1316,,Hombre,Santiago - Cote d'Ivoire,1985.0
+1317,,Hombre,Antigua guatemala - Guatemala,1995.0
+1318,,Mujer,Murcia - España,1980.0
+1319,,Mujer,Santiago - Cote d'Ivoire,1976.0
+1320,,Mujer,Mexico,1992.0
+1321,,Hombre,Distrito federal - Mexico,1994.0
+1322,,,España,1989.0
+1323,,,Neuquen - Argentina,1974.0
+1324,,,Venezuela,1986.0
+1325,,,San cristóbal - Venezuela,1991.0
+1326,,,Barcelona - España,1991.0
+1327,,,España,1988.0
+1328,,,España,
+1329,,,España,
+1330,,,Mexico,
+1331,,,España,
+1332,,,España,
+1333,,,España,
+1334,,,España,
+1335,,,España,
+1336,,,España,
+1337,,,España,
+1338,,Hombre,Cordoba - España,1971.0
+1339,,,España,
+1340,,,¿?,
+1341,,Mujer,Madrid - España,1974.0
+1342,,,Barcelona - España,1952.0
+1343,,,España,
+1344,,,Las palmas de gran canaria - España,1987.0
+1345,,Hombre,Vigo - España,1979.0
+1346,,Hombre,Lima - Peru,1994.0
+1347,,Hombre,London - United Kingdom,1974.0
+1348,,Hombre,Ibarra - Ecuador,1992.0
+1349,,Hombre,Puerto el triunfo - El Salvador,1962.0
+1350,,,España,
+1351,,Mujer,,
+1352,,Hombre,Bilbao - España,1962.0
+1353,,Mujer,Valencia - España,1987.0
+1354,,,España,
+1355,,,España,
+1356,,Hombre,Santiago del estero - Argentina,1999.0
+1357,,Hombre,Lepe - España,1989.0
+1358,,Hombre,Rota - España,1983.0
+1359,,Hombre,,
+1360,,Hombre,Sevilla - España,1999.0
+1361,,Mujer,Barcelona - España,1953.0
+1362,,,España,
+1363,,,Sant feliu llobregat - España,
+1364,,Hombre,Madrid - España,1982.0
+1365,,,Carranque - España,
+1366,,Hombre,Sevilla - España,2000.0
+1367,,,Murcia - España,1955.0
+1368,,,España,
+1369,,,,
+1370,,Hombre,Málaga - España,1994.0
+1371,,Mujer,Rosario - Argentina,1982.0
+1372,,Mujer,,
+1373,,Mujer,Rio gallegos - Argentina,2004.0
+1374,,Hombre,Madrid - España,1984.0
+1375,,Hombre,Marbella - España,1994.0
+1376,,Mujer,Oviedo - España,2004.0
+1377,,Hombre,Huancayo - Peru,1990.0
+1378,,Hombre,¿?,
+1379,,Mujer,¿?,
+1380,,Hombre,¿?,
+1381,,Mujer,¿?,
+1382,,Hombre,Santiago - Chile,2000.0
+1383,,Hombre,Toledo - España,1950.0
+1384,,Mujer,Madrid - España,1990.0
+1385,,Mujer,Zaragoza - España,1980.0
+1386,,Mujer,Madrid - España,1993.0
+1387,,,España,1983.0
+1388,,,"France, French Republic",1983.0
+1389,,Mujer,Bogotá - Colombia,1985.0
+1390,,Hombre,Trinidad - Uruguay,1999.0
+1391,,Mujer,"San antonio de areco, buenos aires - Argentina",1989.0
+1392,,Mujer,Toledo - España,1988.0
+1393,,Hombre,España,1970.0
+1394,,,España,
+1395,,Mujer,Caracas - Venezuela,1994.0
+1396,,Hombre,Ciudad de méxico - Mexico,2000.0
+1397,,Mujer,Argentina,1996.0
+1398,,,Argentina,1910.0
+1399,,Mujer,San salvador de jujuy - Argentina,2000.0
+1400,,Hombre,Córdoba - España,1976.0
+1401,,Hombre,Rosario - Argentina,2000.0
+1402,,Mujer,Buenos aires - Argentina,1996.0
+1403,,Mujer,España,1980.0
+1404,,Mujer,España,1989.0
+1405,,Mujer,Caracas - Venezuela,1970.0
+1406,,,España,
+1407,,,Uruguay,1910.0
+1408,,Mujer,La plata - Argentina,1985.0
+1409,,Mujer,Albacete - España,1993.0
+1410,,Mujer,Colombia,1995.0
+1411,,,España,1997.0
+1412,,Mujer,España,1985.0
+1413,,,A coruña - España,1968.0
+1414,,,España,1982.0
+1415,,,Las heras - Argentina,1993.0
+1416,,,España,1979.0
+1417,,,España,
+1418,,,Madrid - España,
+1419,,,España,
+1420,,,España,
+1421,,,Sevilla - España,1988.0
+1422,,,España,
+1423,,,Mexico,
+1424,,,España,
+1425,,,España,
+1426,,,España,1978.0
+1427,,,España,
+1428,,,España,
+1429,,,Madrid - España,1965.0
+1430,,,Barcelona - España,2011.0
+1431,,,Sevilla - España,1976.0
+1432,,Hombre,Linares - España,1995.0
+1433,,,España,
+1434,,,España,
+1435,,Hombre,Jerez de la frontera - España,1974.0
+1436,,Hombre,Lérida - España,2000.0
+1437,,Hombre,Jaén - España,1975.0
+1438,,Mujer,Madrid - España,1984.0
+1439,,Hombre,Cuernavaca - Mexico,1981.0
+1440,,Mujer,ávila - España,1972.0
+1441,,Hombre,Portugalete - España,1979.0
+1442,,Mujer,Buenos aires - Argentina,1980.0
+1443,,Mujer,,
+1444,,Hombre,L'olleria - España,1970.0
+1445,,,España,
+1446,,Mujer,Madrid - España,1970.0
+1447,,Mujer,Maracay - Venezuela,1995.0
+1448,,Hombre,Sevilla - España,1970.0
+1449,,Hombre,Buenos aires - Argentina,1978.0
+1450,,Hombre,Savannah - United States of America,1980.0
+1451,,,España,
+1452,,Mujer,Mexico - Mexico,1997.0
+1453,,Mujer,Las palmas de gc - España,1983.0
+1454,,Mujer,Córdoba - España,1977.0
+1455,,Mujer,,
+1456,,,España,
+1457,,Mujer,Guatemala - Guatemala,1960.0
+1458,,Mujer,Vic - España,1975.0
+1459,,Hombre,Madrid - España,1982.0
+1460,,,España,1910.0
+1461,,,España,
+1462,,,España,1976.0
+1463,,Hombre,Sevilla - España,1971.0
+1464,,Hombre,Pamplona/iruñea - España,1989.0
+1465,,,Terrassa - España,1977.0
+1466,,Hombre,Albacete - España,1969.0
+1467,,Mujer,España,1974.0
+1468,,Hombre,Pobra do brollón (estación) - España,1969.0
+1469,,Hombre,¿?,
+1470,,,España,
+1471,,,España,
+1472,,Hombre,Santiago - Chile,1964.0
+1473,,,España,
+1474,,,Malaga - España,1910.0
+1475,,,España,
+1476,,,España,1956.0
+1477,,,Mexico,
+1478,,Mujer,España,1958.0
+1479,,,Mexico,
+1480,,Hombre,Alicante - España,1982.0
+1481,,Hombre,¿?,
+1482,,Hombre,Oaxaca - Mexico,1989.0
+1483,,Hombre,Quito - Ecuador,1993.0
+1484,,Mujer,Colima - Mexico,1988.0
+1485,,,Santiago - Cote d'Ivoire,1995.0
+1486,,,España,
+1487,,Mujer,"Marsella - France, French Republic",1977.0
+1488,,Mujer,,
+1489,,Hombre,Málaga - España,1973.0
+1490,,Hombre,España,1973.0
+1491,,,España,
+1492,,Mujer,Madrid - España,1973.0
+1493,,Hombre,Barcelona - España,1972.0
+1494,,,Valencia - España,1910.0
+1495,,,España,
+1496,,,España,
+1497,,Mujer,Fuengirola - España,1979.0
+1498,,Mujer,¿?,1985.0
+1499,,Mujer,Santander - España,1995.0
+1500,,,España,1910.0
+1501,,Mujer,Asturias - España,1987.0
+1502,,Mujer,Albacete - España,1990.0
+1503,,Mujer,Madrid - España,1966.0
+1504,,Hombre,Medellin - Colombia,1992.0
+1505,,Hombre,¿?,
+1506,,Mujer,España,1981.0
+1507,,Hombre,España,1993.0
+1508,,Mujer,Rafaela - Argentina,1990.0
+1509,,Mujer,Córdoba - España,1994.0
+1510,,Mujer,Sevilla - España,1984.0
+1511,,,España,1910.0
+1512,,Mujer,Valladolid - España,1978.0
+1513,,,España,
+1514,,,España,
+1515,,,España,
+1516,,,España,
+1517,,,España,1979.0
+1518,,,España,
+1519,,,España,
+1520,,,España,
+1521,,,España,
+1522,,Hombre,San sebastian de los reyes - España,1958.0
+1523,,Hombre,Madrid - España,1910.0
+1524,,,España,1910.0
+1525,,,España,
+1526,,,España,
+1527,,,España,
+1528,,Mujer,Salta - Argentina,1959.0
+1529,,,España,
+1530,,Hombre,Cambrils - España,1978.0
+1531,,Hombre,Barcelona - España,1985.0
+1532,,Hombre,Sevilla - España,1995.0
+1533,,Mujer,,
+1534,,Hombre,Fuente del maestre - España,1979.0
+1535,,Mujer,Buenos aires - Argentina,1988.0
+1536,,Mujer,Villahermosa - Mexico,1992.0
+1537,,,Barcelona - España,1979.0
+1538,,Mujer,España,2000.0
+1539,,Hombre,,
+1540,,Hombre,Madrid - España,1984.0
+1541,,,España,
+1542,,Mujer,Madrid - España,1964.0
+1543,,Mujer,Montevideo - Uruguay,1997.0
+1544,,Mujer,Buenos aires - Argentina,1989.0
+1545,,Mujer,México - Mexico,1990.0
+1546,,Mujer,En un lugar vago e indeterminado - Mexico,1994.0
+1547,,,España,
+1548,,,España,
+1549,,,España,
+1550,,,Barcelona - España,1985.0
+1551,,Hombre,Sevilla - España,1990.0
+1552,,,Barcelona - España,1970.0
+1553,,,España,
+1554,,Hombre,España,1981.0
+1555,,Hombre,San antonio oeste - Argentina,1991.0
+1556,,,España,1910.0
+1557,,,España,1981.0
+1558,,,España,1910.0
+1559,,,España,
+1560,,,Lima - Peru,1983.0
+1561,,,España,1996.0
+1562,,Hombre,Córdoba - Argentina,1991.0
+1563,,Hombre,Buenos aires - Argentina,1990.0
+1564,,Mujer,Cúcuta - Colombia,1986.0
+1565,,Hombre,Granada - España,1970.0
+1566,,Hombre,¿?,
+1567,,,España,
+1568,,,España,
+1569,,Mujer,Caracas - Venezuela,1988.0
+1570,,Mujer,Rosario - Argentina,1972.0
+1571,,,Madrid - España,1967.0
+1572,,,España,
+1573,,Hombre,Valleseco - Afghanistan,1984.0
+1574,,,España,
+1575,,Hombre,Sevilla - España,1965.0
+1576,,,Tumbuctú - España,
+1577,,,Mexico,
+1578,,Hombre,X - España,1975.0
+1579,,,España,1955.0
+1580,,,España,1981.0
+1581,,Mujer,Distrito federal - Mexico,1975.0
+1582,,Mujer,Madrid - España,2000.0
+1583,,Mujer,Rianxo - España,1994.0
+1584,,Mujer,Madrid - España,1990.0
+1585,,Hombre,Chía - Colombia,1988.0
+1586,,Hombre,Mexico,1984.0
+1587,,Mujer,Cadiz - España,1987.0
+1588,,,Les franqueses - España,1993.0
+1589,,,España,
+1590,,,España,
+1591,,,España,
+1592,,,Palma de mallorca - España,1959.0
+1593,,,España,
+1594,,,España,
+1595,,Hombre,Valladolid - España,1993.0
+1596,,Mujer,,
+1597,,,España,
+1598,,Mujer,Madrid - España,1993.0
+1599,,Hombre,Ciudad de méxico - Mexico,1981.0
+1600,,Hombre,Caracas - Venezuela,1990.0
+1601,,Hombre,Los mochis - Mexico,1990.0
+1602,,Mujer,España,1986.0
+1603,,,Sant celoni - España,1989.0
+1604,,,España,
+1605,,,España,
+1606,,Mujer,Barcelona - España,1969.0
+1607,,,España,1910.0
+1608,,Hombre,Almeria - España,1970.0
+1609,,Hombre,San cristobal - Venezuela,1984.0
+1610,,Hombre,Ciudad de méxico - Mexico,1986.0
+1611,,Hombre,España,1990.0
+1612,,,España,1961.0
+1613,,,Colombia,
+1614,,Mujer,,
+1615,,,España,
+1616,,,España,
+1617,,Hombre,Barcelona - España,1964.0
+1618,,Hombre,Algeciras (cádiz) - España,1958.0
+1619,,,España,
+1620,,,España,
+1621,,,España,
+1622,,Mujer,,
+1623,,Mujer,,
+1624,,Hombre,Jerez - España,1958.0
+1625,,,Argentina,
+1626,,Hombre,Collbato - España,1959.0
+1627,,Hombre,Avila - España,1984.0
+1628,,Hombre,Maracay - Venezuela,1998.0
+1629,,Hombre,San andres choulula - Mexico,1980.0
+1630,,Hombre,Oviedo - España,1978.0
+1631,,Mujer,Madrid - España,1994.0
+1632,,Mujer,San fernando - España,1977.0
+1633,,Hombre,Murcia - España,1965.0
+1634,,,¿?,
+1635,,Hombre,Granada - España,1987.0
+1636,,Mujer,España,1982.0
+1637,,Hombre,"Monterrey, nuevo león - Mexico",1995.0
+1638,,Hombre,Toledo - España,1994.0
+1639,,Hombre,Vitoria - España,1969.0
+1640,,Hombre,Bogotá - Colombia,1997.0
+1641,,Mujer,¿?,
+1642,,Mujer,Matamoros - Mexico,1992.0
+1643,,Mujer,,
+1644,,Hombre,Mexico - Mexico,1989.0
+1645,,Mujer,Madrid - España,1988.0
+1646,,,España,
+1647,,Hombre,Caracas - Venezuela,1988.0
+1648,,Hombre,Badajoz - España,1988.0
+1649,,Hombre,Valencia - España,1990.0
+1650,,Mujer,Madrid - España,1910.0
+1651,,,España,
+1652,,Hombre,Barcelona - Venezuela,1986.0
+1653,,Hombre,Madrid - España,1980.0
+1654,,Hombre,Cuenca - Ecuador,1993.0
+1655,,Hombre,La paz - Saint Barthelemy,1985.0
+1656,,,España,
+1657,,Mujer,León - Mexico,1962.0
+1658,,Hombre,Las palmas de gc - España,1988.0
+1659,,Hombre,Argentina,1991.0
+1660,,Hombre,Distrito federal - Mexico,1990.0
+1661,,Mujer,Villa elisa - Argentina,1998.0
+1662,,Hombre,Montevideo - Uruguay,1992.0
+1663,,Mujer,España,1984.0
+1664,,Mujer,Ciudad de méxico - Mexico,1994.0
+1665,,Hombre,Málaga - España,1910.0
+1666,,Hombre,Daimiel - España,1974.0
+1667,,Mujer,Getxo - España,1986.0
+1668,,Mujer,España,1994.0
+1669,,Hombre,Mataro - España,1910.0
+1670,,Hombre,Venezuela,1993.0
+1671,,Hombre,Santiago - Chile,1983.0
+1672,,,Argentina,1993.0
+1673,,,A guarda - España,1974.0
+1674,,,Santiago - Cote d'Ivoire,1993.0
+1675,,,Bogota - Colombia,1991.0
+1676,,,Alcobendas - España,1970.0
+1677,,,Miami - United States of America,1973.0
+1678,,Mujer,Barcelona - España,
+1679,,,España,
+1680,,,Argentina,
+1681,,,España,
+1682,,,España,
+1683,,,Mexico,
+1684,,,España,
+1685,,,España,
+1686,,,Marbella - España,1991.0
+1687,,,España,
+1688,,Hombre,Mexico,1991.0
+1689,,Hombre,Alcalá de henares - España,1983.0
+1690,,,España,
+1691,,Mujer,Maracaibo - Venezuela,1975.0
+1692,,Mujer,Palma de mallorca - España,1994.0
+1693,,,Cote d'Ivoire,1991.0
+1694,,Mujer,Mexico,1979.0
+1695,,Mujer,Ensenada - Mexico,1993.0
+1696,,Mujer,España,1991.0
+1697,,Mujer,Ciudad de panamá - Panama,1977.0
+1698,,Hombre,Aguilar de campoo - España,1972.0
+1699,,,Málaga - España,1910.0
+1700,,,España,1970.0
+1701,,Mujer,Madrid - España,1977.0
+1702,,,España,1990.0
+1703,,Hombre,Valencia - España,1968.0
+1704,,,España,
+1705,,Hombre,Alcalá de henares - España,1982.0
+1706,,Mujer,Barcelona - España,1984.0
+1707,,Mujer,España,1967.0
+1708,,,España,
+1709,,Mujer,Castellon - España,1992.0
+1710,,Hombre,Barranquilla - Colombia,1969.0
+1711,,,¿?,
+1712,,,España,
+1713,,Hombre,Valladolid - Afghanistan,1985.0
+1714,,Mujer,Mexico,1968.0
+1715,,Mujer,Benavente - España,1970.0
+1716,,Hombre,Valladolid - España,1980.0
+1717,,Hombre,Madrid - España,1963.0
+1718,,Hombre,Imagina - España,1965.0
+1719,,Mujer,Valladolid - España,1981.0
+1720,,Mujer,Panama - Saint Pierre and Miquelon,1977.0
+1721,,Mujer,Oviedo - España,1989.0
+1722,,Hombre,Madrid - España,1978.0
+1723,,Hombre,España,1988.0
+1724,,Mujer,Valencia - España,1910.0
+1725,,,España,
+1726,,,Madrid - España,1974.0
+1727,,Mujer,Cuenca - España,1981.0
+1728,,Mujer,Santiago de compostela - España,1985.0
+1729,,Hombre,Vilanova i la geltrú - España,1988.0
+1730,,Mujer,España,1910.0
+1731,,,España,
+1732,,Hombre,Caracas - Venezuela,1985.0
+1733,,,España,
+1734,,,Madrid - España,1955.0
+1735,,Mujer,España,1985.0
+1736,,,España,1970.0
+1737,,,España,
+1738,,Hombre,Chiclayo - Peru,1996.0
+1739,,,Mexico,1988.0
+1740,,Hombre,Murcia - España,1964.0
+1741,,Mujer,,
+1742,,Hombre,Villajoyosa - España,2001.0
+1743,,,Cap fed - Argentina,1985.0
+1744,,Mujer,,
+1745,,Mujer,San luis - Argentina,1988.0
+1746,,Hombre,Madrid - España,1988.0
+1747,,Hombre,A coruña - España,1995.0
+1748,,Mujer,,
+1749,,,España,
+1750,,,España,
+1751,,,España,
+1752,,,España,
+1753,,,España,
+1754,,Hombre,Buenos aires - Argentina,2000.0
+1755,,,España,1982.0
+1756,,,España,1991.0
+1757,,Mujer,,1979.0
+1758,,,Argentina,
+1759,,,España,
+1760,,,Venezuela,
+1761,,Hombre,Madrid - España,1951.0
+1762,,,España,
+1763,,,Zaragoza - España,1970.0
+1764,,,Zaragoza - España,1970.0
+1765,,Mujer,Granada - España,1984.0
+1766,,Hombre,Querétaro - Mexico,1988.0
+1767,,Hombre,Igualada - España,1964.0
+1768,,Hombre,Buenos aires - Argentina,1983.0
+1769,,,Barcelona - España,1956.0
+1770,,Mujer,Palma - España,1975.0
+1771,,Hombre,Albacete - España,1978.0
+1772,,,Madrid - España,
+1773,,Mujer,Santiago - Chile,1971.0
+1774,,,España,
+1775,,Mujer,Bilbao - España,1980.0
+1776,,Hombre,España,1981.0
+1777,,Mujer,Barcelona - España,1982.0
+1778,,Mujer,Valencia - España,1980.0
+1779,,Mujer,,
+1780,,,Buenos aires - España,1910.0
+1781,,Mujer,Almeria - España,1978.0
+1782,,Mujer,,
+1783,,,España,
+1784,,Mujer,,
+1785,,Mujer,Madrid - España,1984.0
+1786,,Mujer,Getxo - España,1961.0
+1787,,Mujer,Caceres - España,1973.0
+1788,,Hombre,Labastida - España,1990.0
+1789,,Hombre,Donostia - España,1983.0
+1790,,Mujer,Palma de mallorca - España,1976.0
+1791,,Mujer,Mengíbar - España,1964.0
+1792,,Mujer,Madrid - España,2002.0
+1793,,Mujer,Barcelona - España,1980.0
+1794,,Mujer,,
+1795,,,España,
+1796,,Mujer,¿?,
+1797,,Hombre,,
+1798,,Mujer,Valencia - España,1978.0
+1799,,Hombre,Zaragoza - Afghanistan,1962.0
+1800,,Hombre,Mexicali - Mexico,1962.0
+1801,,,España,1910.0
+1802,,Mujer,España,1985.0
+1803,,,España,
+1804,,,España,
+1805,,Mujer,España,1968.0
+1806,,,Argentina,
+1807,,,España,
+1808,,,España,1947.0
+1809,,,España,1910.0
+1810,,Mujer,España,1977.0
+1811,,,España,
+1812,,,España,
+1813,,Mujer,España,1910.0
+1814,,,! - España,1971.0
+1815,,Mujer,Almuñecar - España,1981.0
+1816,,,Mexico,1991.0
+1817,,Mujer,Cáceres - España,1979.0
+1818,,,España,
+1819,,Mujer,Tona - España,1997.0
+1820,,Mujer,España,1988.0
+1821,,Mujer,Ibiza - España,1990.0
+1822,,Hombre,Ceuta - España,1982.0
+1823,,,Guadalajara - Mexico,1995.0
+1824,,Hombre,Cote d'Ivoire,1994.0
+1825,,Mujer,Malaga - España,1975.0
+1826,,Mujer,Argentina,2000.0
+1827,,Mujer,Argentina,1989.0
+1828,,Hombre,,
+1829,,Hombre,Valledupar - Colombia,2002.0
+1830,,Mujer,Coruña - España,1984.0
+1831,,,España,
+1832,,,Sevilla - España,1976.0
+1833,,Hombre,"As cortes-ames - Portugal, Portuguese Republic",1971.0
+1834,,Mujer,Buenos aires - Argentina,1991.0
+1835,,,Argentina,1987.0
+1836,,Hombre,Madrid - España,1979.0
+1837,,,España,1910.0
+1838,,Hombre,Puerto madryn - Argentina,1973.0
+1839,,,Barcelona - España,1965.0
+1840,,,España,
+1841,,Mujer,España,1972.0
+1842,,Mujer,Madrid - España,1968.0
+1843,,Hombre,Sant - Chile,1992.0
+1844,,Mujer,Bilbao - España,1988.0
+1845,,,Cote d'Ivoire,1910.0
+1846,,Hombre,Gijón - España,1967.0
+1847,,Mujer,Buenos aires - Argentina,1975.0
+1848,,Mujer,¿?,
+1849,,Hombre,Buenos aires - Argentina,1962.0
+1850,,Mujer,Cipolletti - Argentina,1981.0
+1851,,Hombre,Buenos aires - Argentina,1977.0
+1852,,Hombre,Posadas - Argentina,1981.0
+1853,,Hombre,Segovia - España,1987.0
+1854,,Mujer,Montevideo - Uruguay,1980.0
+1855,,Hombre,Capital fedral - Argentina,1986.0
+1856,,Hombre,Boadilla del monte - España,1986.0
+1857,,Hombre,Barcelona - España,1977.0
+1858,,Mujer,Bogota - Colombia,1992.0
+1859,,Mujer,¿?,
+1860,,Hombre,San sebastián - España,1971.0
+1861,,Mujer,Leon - España,1978.0
+1862,,Mujer,Barcelona - España,1975.0
+1863,,Hombre,Entre rios - Argentina,1993.0
+1864,,Mujer,,
+1865,,Hombre,Buenos aires - Argentina,1996.0
+1866,,Mujer,Marratxí - España,1977.0
+1867,,Hombre,España,1996.0
+1868,,Mujer,España,1991.0
+1869,,Mujer,Guadalajara - Mexico,1996.0
+1870,,,España,
+1871,,,Cote d'Ivoire,1970.0
+1872,,,España,
+1873,,Mujer,Cucuta - Colombia,2002.0
+1874,,,España,
+1875,,Mujer,¿?,
+1876,,Mujer,Buenos aires - Argentina,1991.0
+1877,,Hombre,La paz - Saint Barthelemy,1979.0
+1878,,Mujer,Dos hermanas - España,1982.0
+1879,,,España,
+1880,,Hombre,Mexicali - Mexico,1992.0
+1881,,Mujer,Santiago - Chile,1979.0
+1882,,Hombre,Sabadell - España,1984.0
+1883,,Mujer,España,1978.0
+1884,,Mujer,Alajuela -,1984.0
+1885,,Hombre,Colombia,1990.0
+1886,,,Peru,
+1887,,,España,1910.0
+1888,,Mujer,España,1960.0
+1889,,Mujer,Pasto - Colombia,1970.0
+1890,,Mujer,Badajoz - España,1992.0
+1891,,Mujer,Valencia - España,1973.0
+1892,,Mujer,Cote d'Ivoire,1985.0
+1893,,,San sebastian - España,1973.0
+1894,,Mujer,Madrid - España,1973.0
+1895,,,España,1910.0
+1896,,,España,
+1897,,,España,
+1898,,Hombre,Bogota - Colombia,1988.0
+1899,,Hombre,Alicante - España,1992.0
+1900,,Hombre,Buenos aires - Argentina,1995.0
+1901,,Hombre,Lerida - España,1957.0
+1902,,Mujer,Zapopan - Mexico,1993.0
+1903,,Mujer,Guadalajara - Mexico,1990.0
+1904,,Mujer,Buenos aires - Argentina,1996.0
+1905,,,Las palmas - España,1993.0
+1906,,Hombre,Argentina,1974.0
+1907,,Mujer,Alcalá de henares - España,1993.0
+1908,,Mujer,España,1986.0
+1909,,Mujer,,
+1910,,,Madrid - España,1965.0
+1911,,,España,1910.0
+1912,,Hombre,Barcelona - España,1952.0
+1913,,Mujer,Argentina,1966.0
+1914,,Mujer,Valencia - España,1989.0
+1915,,Hombre,Guadalajara -,1947.0
+1916,,Hombre,Granada - España,1974.0
+1917,,,"Zurich - Switzerland, Swiss Confederation",1981.0
+1918,,Mujer,Zaragoza - España,1992.0
+1919,,Hombre,Gijón - España,1969.0
+1920,,,España,
+1921,,Hombre,España,1972.0
+1922,,Hombre,Veracruz - Mexico,2000.0
+1923,,Mujer,Cúcuta - Colombia,1999.0
+1924,,Hombre,Ciudad de mexico - Mexico,1911.0
+1925,,Hombre,Bogota - Colombia,1984.0
+1926,,Hombre,Morelia - Mexico,1997.0
+1927,,Mujer,Madrid - España,1985.0
+1928,,Hombre,Cuernavaca - Mexico,1990.0
+1929,,Mujer,Campeche - Mexico,1989.0
+1930,,Mujer,Zapopan - Mexico,1991.0
+1931,,Mujer,Los cabos - Mexico,1982.0
+1932,,Hombre,Valencia - España,1983.0
+1933,,Hombre,Df - Mexico,1998.0
+1934,,Mujer,Barcelona - España,1982.0
+1935,,Mujer,Argentina,1995.0
+1936,,Mujer,España,1983.0
+1937,,,España,1984.0
+1938,,Mujer,España,1999.0
+1939,,,Venezuela,1999.0
+1940,,Mujer,Salamanca - España,1971.0
+1941,,,España,
+1942,,Hombre,Mexico,1992.0
+1943,,,España,1980.0
+1944,,Mujer,Vitoria-gasteiz - España,1978.0
+1945,,Hombre,Pamplona - España,1973.0
+1946,,Hombre,Buenos aires - Argentina,1981.0
+1947,,Mujer,Neuquén - Argentina,1983.0
+1948,,Mujer,Valencia - España,1983.0
+1949,,Hombre,Granada - Niue,1986.0
+1950,,,España,
+1951,,,Burgos - España,1988.0
+1952,,,España,
+1953,,Mujer,,
+1954,,Mujer,,
+1955,,Hombre,Ciudad de mexico - Mexico,1992.0
+1956,,Hombre,Bogota - Colombia,1990.0
+1957,,Mujer,Madrid - España,1998.0
+1958,,Mujer,,1984.0
+1959,,Mujer,Ortiguera - España,1910.0
+1960,,Mujer,Madrid - España,1974.0
+1961,,Mujer,Donostia - España,1976.0
+1962,,,España,
+1963,,,España,
+1964,,,Argentina,
+1965,,,España,
+1966,,,Colombia,
+1967,,,España,
+1968,,,España,
+1969,,Mujer,España,1968.0
+1970,,Mujer,España,1970.0
+1971,,,España,
+1972,,Mujer,España,1962.0
+1973,,,España,
+1974,,Mujer,Mar del plata - Argentina,1985.0
+1975,,,España,1966.0
+1976,,Mujer,"Toulouse - France, French Republic",1992.0
+1977,,,España,
+1978,,,España,
+1979,,,España,
+1980,,Mujer,Crevillente - España,1985.0
+1981,,Mujer,España,1995.0
+1982,,Mujer,Sevilla - España,1964.0
+1983,,,España,1910.0
+1984,,Mujer,Salto - Uruguay,1990.0
+1985,,Hombre,Sevilla - España,1978.0
+1986,,,España,
+1987,,,España,
+1988,,Hombre,Santiago - Chile,1994.0
+1989,,,Córdoba - España,1981.0
+1990,,Hombre,Cangasdelnarcea - España,1959.0
+1991,,,Onteniente - España,1975.0
+1992,,Mujer,Frankfurt am main - Germany,1969.0
+1993,,Mujer,España,1973.0
+1994,,Hombre,Barcelona - España,1988.0
+1995,,Hombre,São paulo - Brazil,1960.0
+1996,,Mujer,,
+1997,,,Södertälje -,1970.0
+1998,,,España,
+1999,,,España,1997.0
+2000,,Hombre,Guadalajara - España,1974.0
+2001,,,España,
+2002,,Hombre,Gijón - España,1993.0
+2003,,,España,
+2004,,Hombre,Madrid - España,1990.0
+2005,,Mujer,Barcelona - España,1996.0
+2006,,Hombre,Valencia - España,1999.0
+2007,,Mujer,Huelva - España,1998.0
+2008,,,España,1994.0
+2009,,,España,
+2010,,,España,1985.0
+2011,,,España,
+2012,,Hombre,Colombia,1978.0
+2013,,,Modena - España,2011.0
+2014,,,Uruguay,1972.0
+2015,,Mujer,Almuñécar - España,1984.0
+2016,,,España,1910.0
+2017,,,España,
+2018,,Mujer,España,1987.0
+2019,,Mujer,Santiago - Cote d'Ivoire,1990.0
+2020,,,España,
+2021,,Hombre,Bueno aires - Argentina,1998.0
+2022,,Hombre,Barcelona - España,2001.0
+2023,,,España,1990.0
+2024,,Mujer,Obligado - itapúa - Paraguay,2000.0
+2025,,Mujer,Barcelona - España,1995.0
+2026,,Mujer,Bolivar - Afghanistan,1997.0
+2027,,Mujer,Tarragona - España,1999.0
+2028,,,Asuncion - Panama,1999.0
+2029,,,España,
+2030,,Mujer,Guatemala,1996.0
+2031,,Mujer,Colombia,1997.0
+2032,,,Veracruz - Mexico,1910.0
+2033,,Mujer,Distrito federal - Mexico,1995.0
+2034,,Mujer,Santa fe - Argentina,1996.0
+2035,,Mujer,. - España,1983.0
+2036,,Mujer,Mendoza - Argentina,1979.0
+2037,,Mujer,Ferrol - España,1989.0
+2038,,,España,
+2039,,Mujer,Ciudad del este - Panama,1998.0
+2040,,Mujer,Sevilla - España,1969.0
+2041,,,España,
+2042,,,Aroche - España,1960.0
+2043,,Mujer,,
+2044,,Mujer,Santiago - Chile,1985.0
+2045,,Mujer,Santiago de compostela - España,1980.0
+2046,,Mujer,Granada - España,1976.0
+2047,,Hombre,Valladolid - España,1987.0
+2048,,Mujer,,
+2049,,,Barcelona - España,1965.0
+2050,,Hombre,España,1969.0
+2051,,,Mexico,1973.0
+2052,,Hombre,Santo domingo este -,1994.0
+2053,,Mujer,Getafe - España,1987.0
+2054,,Hombre,Murcia - España,1984.0
+2055,,Hombre,Bogota - Colombia,1995.0
+2056,,Mujer,Ciudad del este - Panama,1990.0
+2057,,Hombre,Sanxenxo - España,1991.0
+2058,,Mujer,Madrid - España,1995.0
+2059,,Hombre,Terrassa - España,1983.0
+2060,,Mujer,Zaragoza - España,1985.0
+2061,,Hombre,Barcelona - España,1956.0
+2062,,,España,
+2063,,Mujer,Madrid - España,1986.0
+2064,,Mujer,Barcelona - España,1987.0
+2065,,Hombre,Rivendel - España,1910.0
+2066,,Hombre,Granada - España,1973.0
+2067,,Mujer,España,1981.0
+2068,,Hombre,Madrid - España,1974.0
+2069,,Mujer,London - España,1990.0
+2070,,Mujer,Madrid - España,1981.0
+2071,,Mujer,Palma - España,1979.0
+2072,,,Málaga - España,1980.0
+2073,,,España,
+2074,,Hombre,Buenos aires - Argentina,1991.0
+2075,,Hombre,Lima - Peru,1966.0
+2076,,Mujer,Sitges - España,1975.0
+2077,,Mujer,Lugo - España,1995.0
+2078,,Mujer,España,
+2079,,Mujer,Palma - España,1971.0
+2080,,,Santa cruz de mudela - España,1973.0
+2081,,,España,
+2082,,,España,
+2083,,,España,
+2084,,Hombre,Madrid - España,1973.0
+2085,,,Cote d'Ivoire,
+2086,,,Argentina,
+2087,,,España,
+2088,,Hombre,,
+2089,,Mujer,¿?,
+2090,,Mujer,Madrid - España,1973.0
+2091,,Hombre,La nucia - España,1970.0
+2092,,Hombre,Buenos aires - Argentina,1971.0
+2093,,,España,1910.0
+2094,,,España,
+2095,,,España,
+2096,,Mujer,Zamora - España,1965.0
+2097,,Mujer,España,1910.0
+2098,,Mujer,España,1993.0
+2099,,Mujer,España,1993.0
+2100,,Mujer,Málaga - España,1988.0
+2101,,Hombre,Tigre - Afghanistan,1999.0
+2102,,Mujer,,
+2103,,Mujer,,
+2104,,,España,
+2105,,Hombre,Laudio - España,1961.0
+2106,,Hombre,Barcelona - España,1948.0
+2107,,Hombre,Burgos - España,1958.0
+2108,,Mujer,Logroño - España,1989.0
+2109,,Mujer,Vigo - España,1971.0
+2110,,Mujer,Valencia - España,1991.0
+2111,,Mujer,Barcelona - España,1973.0
+2112,,Mujer,,
+2113,,,España,1910.0
+2114,,,Peru,
+2115,,,Bucaramanga - Colombia,1969.0
+2116,,Hombre,¿?,
+2117,,Mujer,Rosario - Argentina,1964.0
+2118,,,España,
+2119,,Hombre,Plentzia - España,1984.0
+2120,,,España,
+2121,,Hombre,,
+2122,,,España,
+2123,,Mujer,Madrid - España,1997.0
+2124,,Mujer,Buenos aires - Argentina,1988.0
+2125,,Hombre,Buenos aires - Argentina,1975.0
+2126,,,España,
+2127,,Hombre,Ciudad real - España,1994.0
+2128,,Mujer,,
+2129,,Mujer,España,1988.0
+2130,,Mujer,Jerez - España,1970.0
+2131,,,,
+2132,,Mujer,Montuiri - España,1982.0
+2133,,,España,
+2134,,,España,
+2135,,,España,
+2136,,,España,
+2137,,,España,
+2138,,,España,
+2139,,,España,
+2140,,Mujer,España,1984.0
+2141,,Mujer,O - España,1975.0
+2142,,Mujer,Madrid - España,1976.0
+2143,,Hombre,Rianxo - España,1986.0
+2144,,,España,
+2145,,,España,
+2146,,,España,
+2147,,,Madrid - España,1962.0
+2148,,Mujer,Sevilla - España,1980.0
+2149,,,- - España,
+2150,,,España,
+2151,,Mujer,Buenos aires - Argentina,1996.0
+2152,,Mujer,Badajoz - España,1994.0
+2153,,Mujer,Concepción - Chile,1981.0
+2154,,Hombre,España,1984.0
+2155,,Mujer,Elche - España,1993.0
+2156,,Mujer,Montevideo - Uruguay,1961.0
+2157,,,España,
+2158,,Mujer,Managua - Niue,1997.0
+2159,,,España,
+2160,,,España,1970.0
+2161,,,Argentina,
+2162,,Mujer,Banfield - Argentina,1979.0
+2163,,,Mexico,
+2164,,,Mexico,
+2165,,,¿?,
+2166,,Hombre,Capital federal - Argentina,1996.0
+2167,,Hombre,Santiago de chile - Cote d'Ivoire,1983.0
+2168,,Hombre,Madrid - España,1988.0
+2169,,Mujer,Badajoz - España,1955.0
+2170,,Hombre,Murcia - España,1995.0
+2171,,Hombre,Madrid - España,1973.0
+2172,,Mujer,Alicante - España,1978.0
+2173,,,España,
+2174,,Hombre,Gelida - España,1979.0
+2175,,Hombre,Las palmas de gran canaria - España,1971.0
+2176,,Mujer,España,1976.0
+2177,,Hombre,¿?,
+2178,,Mujer,Madrid - España,1973.0
+2179,,Hombre,Cornellá - España,1970.0
+2180,,,Argentina,1910.0
+2181,,Mujer,Malaga - España,1992.0
+2182,,Hombre,Valencia - España,1982.0
+2183,,Mujer,Zacatecas - Mexico,1981.0
+2184,,Mujer,Oviedo - España,1987.0
+2185,,Mujer,Sevilla - España,1988.0
+2186,,Mujer,Celaya - Mexico,1978.0
+2187,,Mujer,,
+2188,,,España,
+2189,,Mujer,España,2000.0
+2190,,Mujer,Madrid - España,1991.0
+2191,,,España,
+2192,,Mujer,León - España,1982.0
+2193,,,España,
+2194,,,España,
+2195,,Mujer,España,1991.0
+2196,,Mujer,Buenos aires - Argentina,1996.0
+2197,,Mujer,Madrid - España,1980.0
+2198,,Mujer,Almería - España,1984.0
+2199,,,Quito - Ecuador,1994.0
+2200,,,España,
+2201,,Hombre,Madrid - España,1991.0
+2202,,Mujer,Madrid - España,1967.0
+2203,,Mujer,Buenos aires - Argentina,1972.0
+2204,,,España,
+2205,,Mujer,,
+2206,,,Derio - España,1976.0
+2207,,,Murcia - España,1993.0
+2208,,,España,
+2209,,Hombre,Madrid - España,1967.0
+2210,,,Maracay - Venezuela,1963.0
+2211,,,España,
+2212,,,España,
+2213,,,España,
+2214,,,España,
+2215,,,España,
+2216,,,España,
+2217,,,España,
+2218,,,España,
+2219,,,Mexico,
+2220,,Mujer,Pamplona/iruã±a - España,1981.0
+2221,,,España,
+2222,,,España,
+2223,,,España,1910.0
+2224,,Mujer,Bs as - Argentina,1984.0
+2225,,Hombre,Mar del plata - Argentina,1979.0
+2226,,Hombre,Buenos aires - Argentina,1962.0
+2227,,Hombre,Pinto - España,1985.0
+2228,,Hombre,Madrid - España,1961.0
+2229,,Hombre,,
+2230,,,¿?,
+2231,,Hombre,Zaragoza - España,1990.0
+2232,,Hombre,Roma - Italy,1986.0
+2233,,,España,1910.0
+2234,,Hombre,Sevilla - España,1994.0
+2235,,Mujer,,
+2236,,Hombre,Alicante - España,1983.0
+2237,,Mujer,Madrid - España,1985.0
+2238,,Hombre,Azuaga - España,1977.0
+2239,,Hombre,Oviedo - España,1964.0
+2240,,Hombre,España,1975.0
+2241,,Mujer,España,1910.0
+2242,,Mujer,¿?,
+2243,,Hombre,Buenos aires - Argentina,1988.0
+2244,,Mujer,Montevideo - Uruguay,1991.0
+2245,,Hombre,Las palmas de gran canaria - España,1997.0
+2246,,Hombre,Algeciras - España,1961.0
+2247,,Hombre,Buenos aires - Argentina,1985.0
+2248,,,España,
+2249,,Mujer,Bilbao - ¿?,1990.0
+2250,,Hombre,Valencia - España,1979.0
+2251,,Hombre,Madrid - España,1985.0
+2252,,,España,
+2253,,Hombre,San fernando - España,1986.0
+2254,,,España,
+2255,,,España,1965.0
+2256,,,España,
+2257,,,Cartagena -colombia - Colombia,1910.0
+2258,,Mujer,Huelva - España,1989.0
+2259,,,España,1984.0
+2260,,,España,
+2261,,Mujer,San josé -,1989.0
+2262,,,España,
+2263,,Hombre,Madrid - España,1979.0
+2264,,Hombre,San cristóbal de la laguna - España,1984.0
+2265,,Mujer,,
+2266,,Mujer,Madrid - España,1990.0
+2267,,Hombre,¿?,
+2268,,Hombre,¿?,
+2269,,Hombre,Almeria - España,1966.0
+2270,,Mujer,Wilde - ¿?,
+2271,,Mujer,Madrid - España,1990.0
+2272,,Mujer,Puebla - Mexico,1993.0
+2273,,Mujer,Sant boi de llobregat - España,1984.0
+2274,,Mujer,España,1972.0
+2275,,,Santiago - Cote d'Ivoire,1972.0
+2276,,,España,
+2277,,Mujer,,
+2278,,Mujer,España,1988.0
+2279,,,España,1910.0
+2280,,Mujer,Ourense - España,1985.0
+2281,,,España,
+2282,,Hombre,Santurtzi - España,1978.0
+2283,,Hombre,Zaragoza - España,1982.0
+2284,,,Madrid - España,1993.0
+2285,,,España,
+2286,,Mujer,Madrid - España,1975.0
+2287,,Hombre,Alcorcón - España,1985.0
+2288,,Mujer,Madrid - España,1974.0
+2289,,Hombre,Barcelona - España,1982.0
+2290,,Mujer,,
+2291,,,España,
+2292,,Mujer,España,1982.0
+2293,,Hombre,Cordoba - España,1978.0
+2294,,Hombre,San lorenzo de el escorial - España,1983.0
+2295,,Hombre,La coruña - España,1993.0
+2296,,Hombre,Igualada - España,1985.0
+2297,,Hombre,,
+2298,,Hombre,Madrid - España,1985.0
+2299,,Hombre,áncash - Peru,1993.0
+2300,,Hombre,Madrid - España,1985.0
+2301,,Hombre,Barcelona - España,1994.0
+2302,,Hombre,Badajoz - España,1992.0
+2303,,Hombre,Bogotá - Colombia,1998.0
+2304,,Mujer,Sevilla - España,1983.0
+2305,,Mujer,España,2001.0
+2306,,Hombre,Medellín - Colombia,1910.0
+2307,,Hombre,Tegucigalpa - Honduras,1980.0
+2308,,Hombre,Buenos aires - Argentina,1989.0
+2309,,,España,
+2310,,Hombre,La paz - Saint Barthelemy,1980.0
+2311,,,España,
+2312,,,Madrid - España,1981.0
+2313,,,España,
+2314,,,Colombia,
+2315,,,España,
+2316,,Mujer,Donostia - España,1977.0
+2317,,,España,
+2318,,,Buenos aires - Argentina,1979.0
+2319,,Mujer,Ponferrada - España,1979.0
+2320,,Mujer,Pamplona - España,1971.0
+2321,,Mujer,Barcelona - España,1988.0
+2322,,,España,
+2323,,,Albacete - España,1978.0
+2324,,Mujer,Vitoria - España,1994.0
+2325,,,España,
+2326,,Mujer,,
+2327,,Mujer,Sevilla - España,1969.0
+2328,,Hombre,Madrid - España,1975.0
+2329,,Mujer,Madrid - España,1985.0
+2330,,Mujer,Madrid - España,1989.0
+2331,,Mujer,San francisco de macoris - Dominican Republic,1993.0
+2332,,Mujer,,
+2333,,Mujer,España,1997.0
+2334,,Mujer,Tegucigalpa - Honduras,1984.0
+2335,,,España,
+2336,,,Madrid - España,1981.0
+2337,,,Buenos aires - Argentina,1979.0
+2338,,,España,
+2339,,Hombre,San lorenzo - Argentina,1965.0
+2340,,Mujer,Madrid - España,1975.0
+2341,,,España,
+2342,,Hombre,Zaragoza - España,1974.0
+2343,,,España,
+2344,,Hombre,Córdoba - España,1971.0
+2345,,Hombre,General belgrano - Argentina,1987.0
+2346,,Hombre,Puertollano - España,1985.0
+2347,,,Hermosillo - Mexico,1989.0
+2348,,Mujer,,
+2349,,Mujer,En otra dimensión - España,1995.0
+2350,,Mujer,,
+2351,,,España,
+2352,,,España,1980.0
+2353,,Mujer,Mexicali - ¿?,1991.0
+2354,,Hombre,Guadalajara - Mexico,1996.0
+2355,,,"France, French Republic",
+2356,,Hombre,Puno - Peru,1993.0
+2357,,,España,1964.0
+2358,,Hombre,Valladolid - España,1993.0
+2359,,Mujer,Alcalá de henares - España,1989.0
+2360,,Mujer,Valencia - España,1980.0
+2361,,Hombre,Jaén - España,1979.0
+2362,,Mujer,Santa coloma de gramenet - España,1971.0
+2363,,Mujer,Carúpano - Venezuela,1996.0
+2364,,Hombre,Valencia - España,1995.0
+2365,,Mujer,España,1958.0
+2366,,Mujer,Orihuela - España,1979.0
+2367,,Hombre,España - España,2000.0
+2368,,,España,
+2369,,Hombre,España,1993.0
+2370,,Hombre,Sevilla - España,1974.0
+2371,,Hombre,Alicante - España,1986.0
+2372,,,España,
+2373,,Mujer,,
+2374,,Mujer,Tabernas - España,1990.0
+2375,,,España,1988.0
+2376,,,España,1970.0
+2377,,Mujer,Albacete - España,1981.0
+2378,,Hombre,,
+2379,,Hombre,Valdemoro - España,1989.0
+2380,,Mujer,¿?,
+2381,,Mujer,Guadalajara - España,1987.0
+2382,,Mujer,Santa cruz de mudela - España,1968.0
+2383,,Mujer,Córdoba - España,1998.0
+2384,,Hombre,Madrid - España,1979.0
+2385,,Mujer,España,1991.0
+2386,,Mujer,España,1992.0
+2387,,,España,
+2388,,Mujer,Madrid - España,1986.0
+2389,,,Santa eulalia del rio - España,1982.0
+2390,,Mujer,Santiago - Cote d'Ivoire,1992.0
+2391,,,Neuquen - Argentina,1994.0
+2392,,Hombre,Madrid - España,1975.0
+2393,,Hombre,,
+2394,,,España,
+2395,,Hombre,Granada - España,1970.0
+2396,,Mujer,,
+2397,,Mujer,Coruña - España,1970.0
+2398,,Hombre,Mar del plata - Argentina,1966.0
+2399,,Hombre,Madrid - España,1954.0
+2400,,,,
+2401,,Hombre,San sebastian de los reyes - España,1964.0
+2402,,,Mexico - Mexico,
+2403,,Hombre,Madrid - España,1985.0
+2404,,Hombre,Argentina,1910.0
+2405,,,España,
+2406,,Mujer,Ciutadella de menorca - España,1979.0
+2407,,Mujer,Cote d'Ivoire,1998.0
+2408,,Mujer,Terrassa - España,1993.0
+2409,,Mujer,Muriel viejo - España,1978.0
+2410,,Mujer,,
+2411,,,España,
+2412,,Hombre,Cote d'Ivoire,1982.0
+2413,,,Madrid - España,1910.0
+2414,,,Barcelona - España,1954.0
+2415,,,España,
+2416,,Hombre,Madrid - España,1975.0
+2417,,,España,
+2418,,Mujer,Elche - España,1982.0
+2419,,Hombre,Barcelona - España,1963.0
+2420,,Hombre,Tenerife - España,1959.0
+2421,,Hombre,Venta de baños - España,1950.0
+2422,,,España,
+2423,,Hombre,Santiago - Chile,1947.0
+2424,,,O porriño - España,1983.0
+2425,,,España,1969.0
+2426,,Mujer,Panama - Panama,1984.0
+2427,,Mujer,Tenerife - España,1995.0
+2428,,Mujer,España,1992.0
+2429,,Mujer,España,1985.0
+2430,,,Valencia - España,1976.0
+2431,,,España,
+2432,,,España,
+2433,,,Mexico,
+2434,,,España,1992.0
+2435,,,España,
+2436,,Mujer,Talavera de la reina - España,1990.0
+2437,,Hombre,Sevilla - España,1991.0
+2438,,Hombre,¿?,
+2439,,Hombre,Jaen - España,1976.0
+2440,,Hombre,La muela - España,1981.0
+2441,,Hombre,Mérida - España,1970.0
+2442,,,España,
+2443,,Hombre,Cortazar - Mexico,1993.0
+2444,,Mujer,Santa tecla - El Salvador,1982.0
+2445,,,¿?,
+2446,,Mujer,Huesca - España,1977.0
+2447,,Mujer,¿?,
+2448,,Mujer,"Tonneins - France, French Republic",1984.0
+2449,,,España,
+2450,,Mujer,Madrid - España,1980.0
+2451,,,España,
+2452,,,España,
+2453,,,España,
+2454,,Mujer,Malaga - España,1976.0
+2455,,,España,
+2456,,,España,
+2457,,Mujer,"Grindelwald - Switzerland, Swiss Confederation",1984.0
+2458,,Mujer,Ronda - España,1982.0
+2459,,,España,
+2460,,Hombre,Madrid - España,1980.0
+2461,,Mujer,Córdoba - España,1990.0
+2462,,Hombre,Buenos aires - Argentina,1994.0
+2463,,,España,
+2464,,,España,
+2465,,Hombre,Madrid - España,1950.0
+2466,,,España,
+2467,,,,
+2468,,Mujer,,
+2469,,Mujer,Madrid - España,1970.0
+2470,,Mujer,,
+2471,,Hombre,Manresa - España,1986.0
+2472,,Mujer,Sevilla - España,
+2473,,Hombre,¿?,
+2474,,Mujer,A coruña - España,1992.0
+2475,,Mujer,Munich - Gambia the,1988.0
+2476,,Mujer,Madrid -,1982.0
+2477,,,Estepa - España,1973.0
+2478,,,España,1973.0
+2479,,,Ourense - España,1966.0
+2480,,,España,
+2481,,,Lérida - España,1985.0
+2482,,,Barcelona - España,1980.0
+2483,,,España,1975.0
+2484,,,España,1979.0
+2485,,Hombre,,
+2486,,Hombre,Caracas - Venezuela,1982.0
+2487,,Mujer,,
+2488,,Hombre,Madrid - España,1975.0
+2489,,Hombre,Ciudad real - España,1981.0
+2490,,,España,
+2491,,Mujer,Iniesta - España,1968.0
+2492,,Mujer,,
+2493,,Mujer,Bahía blanca - Argentina,1985.0
+2494,,Hombre,Santa cruz de tenerife - España,1988.0
+2495,,Mujer,Jaén - España,1987.0
+2496,,Mujer,Cordoba - España,1991.0
+2497,,Mujer,Nogales - Mexico,1965.0
+2498,,Mujer,Alhama de granada - España,1983.0
+2499,,Mujer,Buenos aires - Argentina,1984.0
+2500,,Hombre,Bogotá - Colombia,1989.0
+2501,,Hombre,¿?,
+2502,,Mujer,,
+2503,,,España,
+2504,,Hombre,España,1969.0
+2505,,,España,
+2506,,Hombre,San salvador - España,1951.0
+2507,,Hombre,Madrid - España,1990.0
+2508,,,España,
+2509,,Hombre,Madrid - España,1958.0
+2510,,,España,
+2511,,,España,
+2512,,Mujer,Alicante - España,1991.0
+2513,,Mujer,Málaga - España,1987.0
+2514,,Hombre,Toledo - España,1990.0
+2515,,Mujer,Málaga - España,1999.0
+2516,,Mujer,Colombia,1994.0
+2517,,,España,
+2518,,Hombre,Sevilla - España,1982.0
+2519,,Hombre,Machalí - Chile,1989.0
+2520,,,España,
+2521,,Mujer,España,1990.0
+2522,,,España,1910.0
+2523,,Hombre,Villa constitución - Argentina,1985.0
+2524,,,España,
+2525,,Hombre,Bogotá - Colombia,1994.0
+2526,,,España,
+2527,,,España,
+2528,,,España,
+2529,,Hombre,Los palacios y villafranca - España,1973.0
+2530,,Hombre,Valladolid - España,1981.0
+2531,,Mujer,Madrid - España,1984.0
+2532,,Mujer,Almería - España,1987.0
+2533,,Hombre,23801602 - España,1994.0
+2534,,Mujer,,
+2535,,Hombre,Torrijos - España,1973.0
+2536,,Hombre,Villa alemana - Chile,1988.0
+2537,,Mujer,Sevilla - España,1990.0
+2538,,Mujer,Zaragoza - España,1974.0
+2539,,Mujer,Bcn - Afghanistan,1971.0
+2540,,Hombre,Barcelona - España,1975.0
+2541,,Mujer,A coruña - España,1994.0
+2542,,Hombre,Valencia - España,1996.0
+2543,,Hombre,Temuco - Chile,1982.0
+2544,,Hombre,¿?,
+2545,,,España,1910.0
+2546,,Mujer,Donostia - España,1994.0
+2547,,,España,1910.0
+2548,,Hombre,Cadiz - España,1994.0
+2549,,Hombre,Mexico - Mexico,1996.0
+2550,,Hombre,Ocaña - Colombia,2000.0
+2551,,,Alcala de henares - España,1996.0
+2552,,Hombre,Dos hermanas - España,1992.0
+2553,,Mujer,Mexico,1985.0
+2554,,,España,
+2555,,,España,
+2556,,Hombre,Barcelona - España,1989.0
+2557,,Hombre,úbeda - España,1998.0
+2558,,Mujer,Valencia - España,2002.0
+2559,,,España,
+2560,,Mujer,Metropolitana - Cote d'Ivoire,1910.0
+2561,,Mujer,Madrid - España,1983.0
+2562,,Mujer,Loeches - España,1983.0
+2563,,,España,
+2564,,Mujer,España,1966.0
+2565,,Hombre,Mexico,1910.0
+2566,,Hombre,Girona - España,1981.0
+2567,,Hombre,Talarrubias - España,1991.0
+2568,,Hombre,Madrid - España,1979.0
+2569,,Hombre,A coruña - España,1985.0
+2570,,Mujer,Madrid - España,1987.0
+2571,,Mujer,España,1978.0
+2572,,Hombre,Las rozas - España,1964.0
+2573,,Mujer,Castellón - España,1999.0
+2574,,Mujer,Granja de rocamora - España,1976.0
+2575,,,España,1962.0
+2576,,,Burgos - España,1978.0
+2577,,,Madrid - España,1992.0
+2578,,,España,1910.0
+2579,,,Malaga - España,1995.0
+2580,,,España,1984.0
+2581,,,Cartagena - España,1987.0
+2582,,,Tarragona - España,1974.0
+2583,,,España,
+2584,,,España,1983.0
+2585,,,Asuncion - Panama,1979.0
+2586,,,España,
+2587,,Hombre,Bogota - Colombia,1999.0
+2588,,,España,
+2589,,Hombre,Zaragoza - España,1969.0
+2590,,Hombre,Valencia - España,1978.0
+2591,,Hombre,Murcia - España,1988.0
+2592,,,España,
+2593,,,Ciudad de méxico - Mexico,1975.0
+2594,,,España,
+2595,,Hombre,Santiago - Chile,1910.0
+2596,,Hombre,Madrid - España,1995.0
+2597,,Mujer,Medellín - Colombia,2003.0
+2598,,Mujer,Málaga - España,1981.0
+2599,,Mujer,Santiago - Cote d'Ivoire,1989.0
+2600,,Mujer,Mexico - Mexico,1996.0
+2601,,Hombre,Tlaxcala - Mexico,1997.0
+2602,,Hombre,Badajoz - Afghanistan,1985.0
+2603,,Hombre,Cote d'Ivoire,1992.0
+2604,,Hombre,Tenerife - España,1968.0
+2605,,Hombre,Buenos aires - Argentina,1996.0
+2606,,Mujer,España,1910.0
+2607,,Hombre,Salamanca - España,1984.0
+2608,,Hombre,Guanajuato - Mexico,1986.0
+2609,,Mujer,Capital federal - Argentina,1978.0
+2610,,Mujer,Buenos aires - Argentina,1991.0
+2611,,Hombre,Mexico - Mexico,1978.0
+2612,,,España,
+2613,,,España,
+2614,,Mujer,Santo domingo -,1985.0
+2615,,,Buenos aires - Argentina,1970.0
+2616,,,España,1987.0
+2617,,,Madrid - España,1968.0
+2618,,,Puebla - Mexico,1983.0
+2619,,,Mexico,
+2620,,,Málaga - España,1966.0
+2621,,,España,
+2622,,,Argentina,1968.0
+2623,,,España,
+2624,,,España,
+2625,,,Belgium,
+2626,,,España,
+2627,,Mujer,Xxxx - España,1979.0
+2628,,,Madrid - España,1976.0
+2629,,Hombre,Torrejón de ardoz - España,1979.0
+2630,,,España,
+2631,,Mujer,Valencia - España,1972.0
+2632,,Mujer,San luis potosi - Mexico,1963.0
+2633,,Mujer,Valencia - España,1960.0
+2634,,Mujer,¿?,1990.0
+2635,,Mujer,ávila - España,1910.0
+2636,,Hombre,Madrid - España,1979.0
+2637,,Mujer,Medellin - Colombia,1992.0
+2638,,Hombre,Chile,1988.0
+2639,,,España,
+2640,,,España,
+2641,,,España,
+2642,,,España,
+2643,,Mujer,Madrid - España,2004.0
+2644,,Hombre,Madrid - España,1982.0
+2645,,Mujer,Córdoba - España,1982.0
+2646,,Mujer,Andorra - España,1982.0
+2647,,Mujer,Madrid - España,1976.0
+2648,,Mujer,Palma - España,1973.0
+2649,,Hombre,Soldini - Argentina,1990.0
+2650,,Hombre,Lima - Peru,1996.0
+2651,,,Salamanca - España,1910.0
+2652,,Hombre,Madrid - España,1969.0
+2653,,,Madrid - España,1971.0
+2654,,Mujer,Toledo - España,1991.0
+2655,,,Cádiz - España,1984.0
+2656,,Hombre,San sebastian de los reyes - España,1996.0
+2657,,Mujer,Vigo - España,1969.0
+2658,,Mujer,Madrid - España,1988.0
+2659,,Mujer,Concepcion - Cote d'Ivoire,1996.0
+2660,,Hombre,Donostia - España,1990.0
+2661,,Hombre,Terrassa - España,1983.0
+2662,,,España,
+2663,,,Venezuela,
+2664,,,España,1910.0
+2665,,,España,
+2666,,,Barcelona - España,1965.0
+2667,,,España,
+2668,,Hombre,Mty - Mexico,1986.0
+2669,,,España,1910.0
+2670,,Mujer,España,2000.0
+2671,,,A coruña - España,1910.0
+2672,,Hombre,Barcelona - España,1999.0
+2673,,,Madrid - España,1993.0
+2674,,Mujer,Algeciras - España,1971.0
+2675,,Mujer,Armintza - España,1980.0
+2676,,Mujer,¿?,
+2677,,,España,
+2678,,,España,
+2679,,Hombre,Barna - España,1992.0
+2680,,Mujer,Barcelona - Andorra,1968.0
+2681,,,España,
+2682,,Mujer,Alzira - España,1978.0
+2683,,Mujer,Caleya - España,1968.0
+2684,,Mujer,Lima - Peru,1991.0
+2685,,Hombre,¿?,
+2686,,Hombre,Mérida - Mexico,1990.0
+2687,,,Lima - Peru,1993.0
+2688,,Mujer,Argentina,1974.0
+2689,,Hombre,Lima - Peru,1983.0
+2690,,,Salta - Argentina,1980.0
+2691,,Mujer,Estepona - España,1969.0
+2692,,,Barcelona - España,1982.0
+2693,,,Barcelona - España,1956.0
+2694,,Hombre,¿?,
+2695,,Mujer,¿?,
+2696,,Hombre,Puebla - Mexico,1975.0
+2697,,Hombre,Zaragoza - España,1979.0
+2698,,Mujer,Cd de méxico - Mexico,1979.0
+2699,,Mujer,San sebastian de los reyes - España,1974.0
+2700,,Hombre,,
+2701,,Hombre,Valencia - España,1969.0
+2702,,Mujer,Córdoba - España,1971.0
+2703,,Hombre,Glendale - United States of America,1980.0
+2704,,Hombre,Valladolid - España,1975.0
+2705,,,¿?,
+2706,,Hombre,Villarrubia de los ojos - España,1974.0
+2707,,Mujer,Alicante - España,1973.0
+2708,,Hombre,,
+2709,,,España,
+2710,,Mujer,Poprad - Slovakia (Slovak Republic),1983.0
+2711,,Hombre,Burgos - España,1988.0
+2712,,Hombre,Murcia - España,1993.0
+2713,,Mujer,¿?,
+2714,,,Oaxaca - España,
+2715,,Mujer,Barcelona - España,1961.0
+2716,,Mujer,L'hospitalet de llobregat - España,1968.0
+2717,,,España,1910.0
+2718,,Mujer,Madrid - España,1967.0
+2719,,,España,
+2720,,Hombre,Xixon - España,1989.0
+2721,,,España,
+2722,,,España,
+2723,,,España,
+2724,,Mujer,Barcelona - España,1983.0
+2725,,Mujer,Murcia - España,1965.0
+2726,,,España,
+2727,,,España,
+2728,,Hombre,Valencia - España,1964.0
+2729,,Mujer,Sevilla - España,1957.0
+2730,,Mujer,Buenos aires - Argentina,1978.0
+2731,,,España,
+2732,,Mujer,Estado de méxico - Mexico,1972.0
+2733,,Mujer,Mty - Mexico,1994.0
+2734,,Mujer,Mexico,1984.0
+2735,,,Toledo - España,1995.0
+2736,,,Madrid - España,1983.0
+2737,,,Mexico,1969.0
+2738,,,Colombia,1966.0
+2739,,,Bilbao - España,1964.0
+2740,,,Huatabampo - Mexico,1956.0
+2741,,,España,1982.0
+2742,,,"México, d.f. - Mexico",1967.0
+2743,,,España,
+2744,,,Panama,
+2745,,,España,
+2746,,,Mexico,
+2747,,,España,
+2748,,,Australia,
+2749,,,España,
+2750,,,España,
+2751,,,España,
+2752,,,Argentina,
+2753,,,España,
+2754,,,España,
+2755,,,España,
+2756,,,España,
+2757,,,España,
+2758,,,España,
+2759,,Hombre,Novelda - España,1994.0
+2760,,,España,
+2761,,Mujer,Caracas - Venezuela,1994.0
+2762,,,España,
+2763,,Mujer,Df - Mexico,1982.0
+2764,,Hombre,Alicante - España,1996.0
+2765,,Mujer,Cervià de les garrigues - España,1973.0
+2766,,,Caracas - Venezuela,1977.0
+2767,,Hombre,Chivilcoy - Argentina,1993.0
+2768,,Mujer,Buenos aires - Argentina,1970.0
+2769,,,España,
+2770,,,España,
+2771,,Mujer,Costa rica - Costa Rica,
+2772,,Mujer,Girona - España,1981.0
+2773,,Mujer,Charlotte - United States of America,1992.0
+2774,,Mujer,Oviedo - España,1980.0
+2775,,,España,1910.0
+2776,,Mujer,Santiago - Cote d'Ivoire,1986.0
+2777,,Mujer,Córdoba - España,1993.0
+2778,,Mujer,España,1976.0
+2779,,,Venezuela,
+2780,,,España,
+2781,,Mujer,España,1984.0
+2782,,Mujer,España,1979.0
+2783,,Hombre,Nava de abajo - España,1992.0
+2784,,Hombre,Errenteria - España,1997.0
+2785,,Mujer,Buenos aires - Argentina,1983.0
+2786,,Mujer,,
+2787,,Hombre,Santiago de los caballeros - Dominican Republic,1995.0
+2788,,,España,1985.0
+2789,,,España,
+2790,,Hombre,Barquisimeto - Venezuela,1989.0
+2791,,Mujer,Colombia,1998.0
+2792,,Mujer,Falcon - Venezuela,2000.0
+2793,,Mujer,Avellaneda - Argentina,1998.0
+2794,,Hombre,"Hermosillo, sonora. - Mexico",1987.0
+2795,,Mujer,Rosario - Argentina,1993.0
+2796,,Mujer,San luis potosi - Mexico,1992.0
+2797,,Hombre,Tui - España,1996.0
+2798,,Hombre,León / bilbao - España,1968.0
+2799,,,España,
+2800,,Mujer,Buenos aires - Argentina,1999.0
+2801,,Hombre,Barcelona - España,1988.0
+2802,,Mujer,Madrid - España,1994.0
+2803,,Mujer,¿?,
+2804,,Mujer,¿?,
+2805,,Hombre,Tegucigalpa - Honduras,1996.0
+2806,,,España,
+2807,,,Argentina,
+2808,,Hombre,Uruguay,1975.0
+2809,,,España,
+2810,,Hombre,Buenos aires - Argentina,2000.0
+2811,,,Sevilla - España,
+2812,,,España,
+2813,,,Lima - Peru,1991.0
+2814,,,España,
+2815,,,España,
+2816,,Mujer,,
+2817,,,España,
+2818,,,Valladolid - España,1960.0
+2819,,,España,1987.0
+2820,,Mujer,Miraflores - Mexico,1997.0
+2821,,Hombre,Mendoza - Argentina,1986.0
+2822,,Hombre,¿?,
+2823,,,España,
+2824,,,España,
+2825,,Hombre,Madrid - España,1977.0
+2826,,,Guatemala - Guatemala,
+2827,,Hombre,Pereira - Colombia,1989.0
+2828,,Hombre,Argentina,1993.0
+2829,,,España,
+2830,,Hombre,Miguel esteban - España,1971.0
+2831,,Hombre,Murcia - España,1971.0
+2832,,Hombre,Castelar - Argentina,1997.0
+2833,,,Lima - Peru,1992.0
+2834,,,Cote d'Ivoire,
+2835,,,Argentina,
+2836,,,España,
+2837,,,Venezuela,
+2838,,,España,
+2839,,,España,
+2840,,,España,
+2841,,,España,
+2842,,,España,
+2843,,Hombre,Mexico,1986.0
+2844,,,España,
+2845,,Hombre,España,1988.0
+2846,,,Argentina,
+2847,,Mujer,Las palmasde g.c - España,1987.0
+2848,,Hombre,Sabaneta - Afghanistan,1981.0
+2849,,Hombre,¿?,
+2850,,Mujer,Barcelona - España,1986.0
+2851,,,España,1910.0
+2852,,Hombre,,1992.0
+2853,,Hombre,Cuernavaca - Mexico,1987.0
+2854,,Hombre,Barakaldo - España,1983.0
+2855,,Hombre,España,1992.0
+2856,,,España,
+2857,,Hombre,Sabadell - España,1973.0
+2858,,Hombre,Granada - España,1946.0
+2859,,Hombre,Bogotá - Colombia,1985.0
+2860,,,Murcia - España,1988.0
+2861,,,Viña del mar - Cote d'Ivoire,1987.0
+2862,,,Mexico,
+2863,,,Mexico,
+2864,,,Mexico,
+2865,,,Mexico,
+2866,,,España,1980.0
+2867,,,España,
+2868,,,España,
+2869,,,España,
+2870,,,España,
+2871,,,Colombia,
+2872,,Hombre,Alicante - España,1987.0
+2873,,,España,
+2874,,Hombre,Quito - Saint Barthelemy,1992.0
+2875,,,Zaragoza - España,1984.0
+2876,,,,
+2877,,,España,
+2878,,Mujer,Tarragona - España,1984.0
+2879,,Mujer,España,1951.0
+2880,,Mujer,España,1973.0
+2881,,,España,
+2882,,,Barcelona - España,1978.0
+2883,,,España,
+2884,,,España,
+2885,,,España,
+2886,,,España,
+2887,,,España,
+2888,,,España,
+2889,,,España,
+2890,,,España,
+2891,,,España,
+2892,,,España,
+2893,,,España,
+2894,,Hombre,Colombia,1991.0
+2895,,Hombre,United States of America,1910.0
+2896,,,Argentina,
+2897,,Mujer,Madrid - España,1989.0
+2898,,Mujer,,
+2899,,Mujer,Madrid - Afghanistan,1993.0
+2900,,Mujer,Cordoba - España,1979.0
+2901,,Hombre,Madrid - España,1947.0
+2902,,Hombre,Girona - España,1978.0
+2903,,,Queretaro - Mexico,1997.0
+2904,,Hombre,Rafaela - Argentina,1986.0
+2905,,Mujer,Medellin - Colombia,1985.0
+2906,,Mujer,Colombia,1989.0
+2907,,Mujer,La plata - Argentina,1990.0
+2908,,,España,
+2909,,,Cuba,
+2910,,,España,
+2911,,,España,
+2912,,,España,1910.0
+2913,,Hombre,Buenaventura - Colombia,1986.0
+2914,,Mujer,Buenos aires - Argentina,1989.0
+2915,,Mujer,Sevilla - España,1984.0
+2916,,Mujer,Zaragoza - España,1974.0
+2917,,Mujer,Bogota - Colombia,1995.0
+2918,,Hombre,Puebla - Mexico,1989.0
+2919,,Mujer,Santiago - Cote d'Ivoire,1961.0
+2920,,Mujer,Puebla - Mexico,1983.0
+2921,,Mujer,España,1992.0
+2922,,Hombre,España,1910.0
+2923,,Hombre,Mallorca - España,1990.0
+2924,,Mujer,Mexico,1984.0
+2925,,Mujer,Edo. de mexico - Mexico,1995.0
+2926,,Mujer,Medellin - Colombia,1983.0
+2927,,,España,
+2928,,,España,
+2929,,,España,
+2930,,Hombre,Sabadell - España,1988.0
+2931,,Hombre,Bolaños de calatrava - España,1993.0
+2932,,Hombre,Madrid - España,1978.0
+2933,,Hombre,Córdoba - España,1979.0
+2934,,Hombre,Bsas - Argentina,1979.0
+2935,,,España,
+2936,,Mujer,Talavera de la reina - España,1980.0
+2937,,Mujer,Salamanca - España,1982.0
+2938,,Mujer,¿?,
+2939,,Mujer,¿?,
+2940,,Hombre,Formosa - Argentina,1992.0
+2941,,Hombre,Sant just desvern - España,1992.0
+2942,,Hombre,Puno - Peru,1993.0
+2943,,,España,
+2944,,Hombre,¿?,
+2945,,Mujer,Esmeraldas - Ecuador,1988.0
+2946,,Hombre,Santiago - Cote d'Ivoire,1988.0
+2947,,Hombre,España,1952.0
+2948,,Hombre,Madrid - España,1992.0
+2949,,Hombre,Madrid - España,1993.0
+2950,,Hombre,Madrid - España,1979.0
+2951,,,Argentina,
+2952,,,España,
+2953,,,Mexico,1910.0
+2954,,,Colombia,
+2955,,,España,
+2956,,Mujer,"Rosario, sf, argentina - Argentina",1974.0
+2957,,,España,
+2958,,,España,
+2959,,Mujer,Panamá - Saint Pierre and Miquelon,1972.0
+2960,,,España,1910.0
+2961,,Hombre,Madrid - España,1981.0
+2962,,,España,
+2963,,,España,
+2964,,,España,1910.0
+2965,,,España,1970.0
+2966,,Hombre,Madrid - ¿?,
+2967,,Mujer,Mexico,1991.0
+2968,,Mujer,Ferrol - España,1985.0
+2969,,,España,
+2970,,Mujer,¿?,
+2971,,Hombre,Andorra la vella - Andorra,2000.0
+2972,,Hombre,Funza - Colombia,1988.0
+2973,,Hombre,Capital federal - Argentina,1997.0
+2974,,Hombre,Concepción - Chile,1991.0
+2975,,Hombre,Zamora - España,1981.0
+2976,,Hombre,Buenos aires - Argentina,1987.0
+2977,,,España,
+2978,,Mujer,Santo domingo - Dominican Republic,2000.0
+2979,,Hombre,Bogotá - Colombia,1999.0
+2980,,Hombre,Gandia - España,2002.0
+2981,,,España,
+2982,,Hombre,Granada - España,1992.0
+2983,,Mujer,Lima - Peru,1993.0
+2984,,Mujer,Sa pobla - España,1976.0
+2985,,Mujer,Madrid - España,1996.0
+2986,,Mujer,Cordoba - Argentina,1993.0
+2987,,Mujer,Madrid - España,1991.0
+2988,,Mujer,España,1988.0
+2989,,Mujer,España,1995.0
+2990,,,España,
+2991,,,Santander - Afghanistan,
+2992,,Mujer,Madrid - España,1985.0
+2993,,Mujer,Santiago - Cote d'Ivoire,1977.0
+2994,,Mujer,Pto. ordaz - Venezuela,1972.0
+2995,,,España,
+2996,,,España,
+2997,,,España,
+2998,,,Salamanca - España,1972.0
+2999,,,Oviedo - España,1986.0
+3000,,,Javea - España,1987.0
+3001,,,España,
+3002,,,España,
+3003,,,España,
+3004,,,España,1969.0
+3005,,Hombre,Vatican - Italy,1990.0
+3006,,Mujer,¿?,
+3007,,Hombre,Df - Mexico,1984.0
+3008,,Hombre,Mexico - España,1996.0
+3009,,,¿?,
+3010,,Hombre,Cdmx - Mexico,1982.0
+3011,,Hombre,Gijon - España,1986.0
+3012,,Hombre,Tenerife - España,1984.0
+3013,,Hombre,Santiago - Chile,1996.0
+3014,,Hombre,Santiago - Chile,1996.0
+3015,,Hombre,Salamanca - España,1989.0
+3016,,Hombre,Bogotá - Colombia,
+3017,,,España,1982.0
+3018,,Hombre,Oviedo - España,1993.0
+3019,,Hombre,Granada - España,1992.0
+3020,,Mujer,,
+3021,,Hombre,Queretaro - Mexico,2002.0
+3022,,,España,1982.0
+3023,,,España,
+3024,,Hombre,Argentina,1983.0
+3025,,Hombre,España,1978.0
+3026,,Mujer,Monterrey - Mexico,1993.0
+3027,,Hombre,,
+3028,,,España,1910.0
+3029,,Hombre,Santiago - Cote d'Ivoire,1981.0
+3030,,,España,
+3031,,Mujer,Santiago - Cote d'Ivoire,1994.0
+3032,,,España,
+3033,,Mujer,Bogotá - Colombia,1999.0
+3034,,Hombre,Bogota - Colombia,1996.0
+3035,,Mujer,Querétaro - Mexico,1991.0
+3036,,Mujer,Bahía blanca - Argentina,1993.0
+3037,,,España,
+3038,,Mujer,Barcelona - España,1980.0
+3039,,,España,
+3040,,,España,
+3041,,Mujer,Mexico,1965.0
+3042,,Mujer,Salamanca - España,1975.0
+3043,,,España,
+3044,,Mujer,España,1981.0
+3045,,Hombre,Lugo - España,2002.0
+3046,,Hombre,Valencia - España,1963.0
+3047,,Hombre,¿?,
+3048,,Mujer,Córdoba - Argentina,1988.0
+3049,,,España,
+3050,,Mujer,Madrid - España,1912.0
+3051,,Hombre,Madrid - España,1966.0
+3052,,Hombre,Madrid - España,1957.0
+3053,,Hombre,¿?,
+3054,,Mujer,Santiago - Chile,1982.0
+3055,,Mujer,Madrid - España,1994.0
+3056,,,España,
+3057,,Mujer,España,1994.0
+3058,,Mujer,Madrid - España,1980.0
+3059,,Hombre,,
+3060,,Hombre,Lima - Peru,1995.0
+3061,,Mujer,,
+3062,,Hombre,Guadalajara - Mexico,1995.0
+3063,,Mujer,Oviedo - España,1969.0
+3064,,Mujer,Tarragona - España,1989.0
+3065,,Mujer,,
+3066,,Hombre,Puebla - Mexico,2000.0
+3067,,,España,
+3068,,Mujer,España,1995.0
+3069,,,Argentina,
+3070,,Hombre,Bogota - Colombia,1986.0
+3071,,Hombre,Barcelona - España,1971.0
+3072,,Hombre,Santiago - Chile,1990.0
+3073,,Hombre,España,1965.0
+3074,,Mujer,España,1989.0
+3075,,Mujer,Málaga - España,1991.0
+3076,,Mujer,,
+3077,,Mujer,Gijón - España,1973.0
+3078,,Hombre,España,1989.0
+3079,,Mujer,Cambre - España,1987.0
+3080,,,,
+3081,,Mujer,Lleida - España,1997.0
+3082,,Mujer,Veracruz - Mexico,1984.0
+3083,,Hombre,¿?,
+3084,,Mujer,Bogota - Colombia,1986.0
+3085,,Hombre,Palma de mallorca - España,1978.0
+3086,,Mujer,Cádiz - España,1982.0
+3087,,Hombre,San sebastian - España,1981.0
+3088,,,España,
+3089,,,España,1986.0
+3090,,,España,
+3091,,,España,
+3092,,,España,
+3093,,,España,
+3094,,,España,
+3095,,Hombre,México - Mexico,1992.0
+3096,,Mujer,Chiapas - Mexico,1990.0
+3097,,Mujer,Galicia - España,1999.0
+3098,,Hombre,España,1910.0
+3099,,Hombre,Madrid - España,1981.0
+3100,,Mujer,Castelar - Argentina,1985.0
+3101,,,España,
+3102,,Hombre,Tremp - España,2000.0
+3103,,,España,
+3104,,Mujer,Las palmas de gran canaria - España,1963.0
+3105,,,España,1989.0
+3106,,,Valladolid - España,1988.0
+3107,,,España,
+3108,,,España,
+3109,,,España,
+3110,,,España,
+3111,,,España,
+3112,,,España,
+3113,,,España,
+3114,,Mujer,Lorca - España,1986.0
+3115,,Hombre,Santiago - Argentina,1967.0
+3116,,,León - España,1988.0
+3117,,Mujer,Jaén - España,1910.0
+3118,,Mujer,España,1910.0
+3119,,Mujer,Granada - España,1977.0
+3120,,,España,
+3121,,Hombre,Granada - España,1980.0
+3122,,,España,1910.0
+3123,,,España,1979.0
+3124,,Mujer,La plata - Argentina,1982.0
+3125,,,España,
+3126,,Mujer,¿?,1988.0
+3127,,Mujer,Castellon - España,1986.0
+3128,,Mujer,,
+3129,,Hombre,Bogota - Colombia,1950.0
+3130,,Mujer,Salamanca - España,1971.0
+3131,,,España,
+3132,,Mujer,¿?,
+3133,,,España,1910.0
+3134,,,Barcelona - España,1974.0
+3135,,,¿?,
+3136,,Mujer,Badalona - España,1973.0
+3137,,Hombre,Murcia - España,1987.0
+3138,,Hombre,San josé -,1997.0
+3139,,Hombre,Madrid - España,1986.0
+3140,,Hombre,Madrid - España,1975.0
+3141,,Hombre,Saint Barthelemy,1981.0
+3142,,Mujer,España,1910.0
+3143,,Mujer,Guadalajara - Mexico,1982.0
+3144,,Mujer,España,1910.0
+3145,,,España,
+3146,,Hombre,Montevideo - Uruguay,1981.0
+3147,,,Madrid - España,1993.0
+3148,,,España,
+3149,,,,
+3150,,,España,
+3151,,,Málaga - España,1984.0
+3152,,,España,
+3153,,Mujer,España,1989.0
+3154,,,España,
+3155,,,España,
+3156,,Hombre,Cádiz - España,1966.0
+3157,,Mujer,Coruña - España,1990.0
+3158,,,España,1974.0
+3159,,Mujer,España,1973.0
+3160,,Mujer,Malaga - España,1970.0
+3161,,,España,
+3162,,Hombre,Huelva - España,1984.0
+3163,,,España,
+3164,,,Mexico,
+3165,,Mujer,Santiago - Cote d'Ivoire,1997.0
+3166,,Hombre,Miranda de ebro - España,1995.0
+3167,,Hombre,Alicante - España,1991.0
+3168,,Mujer,Galicia - España,1977.0
+3169,,Mujer,Barcelona - España,1967.0
+3170,,Hombre,,
+3171,,Mujer,Valladolid - España,1987.0
+3172,,Mujer,,
+3173,,Mujer,Lamienne - España,1981.0
+3174,,Hombre,Barcelona - España,1996.0
+3175,,Mujer,Salamanca - España,1995.0
+3176,,Mujer,,
+3177,,Mujer,Los villares - España,1977.0
+3178,,Mujer,España,1982.0
+3179,,Mujer,Guadalajara - España,1981.0
+3180,,Hombre,Valencia - España,1910.0
+3181,,Mujer,Chihuahua - Mexico,1996.0
+3182,,,España,
+3183,,Hombre,Madrid - Argentina,1910.0
+3184,,,España,
+3185,,Hombre,España,1985.0
+3186,,,España,
+3187,,Mujer,Concepcion - Chile,1998.0
+3188,,Mujer,Madrid - España,1992.0
+3189,,,España,
+3190,,Mujer,México - Afghanistan,1987.0
+3191,,Hombre,"Medellín, antioquia. - Colombia",1997.0
+3192,,Hombre,España,1989.0
+3193,,Hombre,Monóvar - España,1988.0
+3194,,Hombre,Querétaro - Mexico,1989.0
+3195,,Hombre,Jalisco - Mexico,1993.0
+3196,,,España,
+3197,,Mujer,Monterrey - Mexico,1992.0
+3198,,,España,
+3199,,,España,1995.0
+3200,,,España,
+3201,,Hombre,Zaragoza - España,1992.0
+3202,,Hombre,,
+3203,,Hombre,Jaén - España,1993.0
+3204,,,España,
+3205,,Mujer,España,1910.0
+3206,,Mujer,Peru,1981.0
+3207,,,Granada - España,1988.0
+3208,,Hombre,Las palmas gc - Afghanistan,1968.0
+3209,,Hombre,Barcelona - España,1984.0
+3210,,Hombre,Barcelona - ¿?,1989.0
+3211,,Hombre,Buenos aires - Argentina,1987.0
+3212,,,España,
+3213,,,Cadiz - España,1961.0
+3214,,Mujer,Vigo - España,1993.0
+3215,,,España,
+3216,,,España,
+3217,,Mujer,Lima - Peru,1988.0
+3218,,Hombre,España,1969.0
+3219,,Hombre,Murcia - España,1986.0
+3220,,Hombre,Bernal - Argentina,1975.0
+3221,,,¿?,
+3222,,Hombre,Ourense - España,1965.0
+3223,,Mujer,Barcelona - España,1994.0
+3224,,Mujer,Teruel - España,1998.0
+3225,,Hombre,Torreon - Mexico,1987.0
+3226,,Mujer,Argentina,1996.0
+3227,,Hombre,España,1956.0
+3228,,Hombre,Málaga - España,1986.0
+3229,,,España,
+3230,,Hombre,Buenos aires - Argentina,1963.0
+3231,,,España,
+3232,,,España,
+3233,,Mujer,Barcelona - España,1984.0
+3234,,,España,
+3235,,,Barcelona - España,1964.0
+3236,,,Málaga - España,1970.0
+3237,,,Madrid - España,1955.0
+3238,,Hombre,,
+3239,,Mujer,Madrid - España,1970.0
+3240,,,España,
+3241,,Mujer,Frankfurt am main - Gambia the,1910.0
+3242,,Mujer,Mostoles - España,1977.0
+3243,,Hombre,Madrid - Afghanistan,1973.0
+3244,,Hombre,España,1983.0
+3245,,Mujer,,
+3246,,,España,
+3247,,,España,
+3248,,Mujer,Jaen - España,1986.0
+3249,,Hombre,Palma de mallorca - España,1975.0
+3250,,Hombre,Barcelona - España,2000.0
+3251,,Mujer,Madrid - España,1969.0
+3252,,Hombre,¿?,
+3253,,Mujer,¿?,
+3254,,Mujer,¿?,
+3255,,Mujer,,1989.0
+3256,,Mujer,Santanyi - España,1991.0
+3257,,Hombre,Purísima del rincón - Mexico,1985.0
+3258,,,Cote d'Ivoire,
+3259,,Mujer,¿?,
+3260,,,Netherlands Antilles,1980.0
+3261,,Hombre,Silao - Mexico,1972.0
+3262,,,Santiago de compostela - España,1980.0
+3263,,,España,
+3264,,Mujer,Lima - Peru,1995.0
+3265,,Mujer,Cartagena - España,2004.0
+3266,,Mujer,Santiago - Chile,2000.0
+3267,,,España,
+3268,,Mujer,Xicotepec - Mexico,1999.0
+3269,,,España,
+3270,,Mujer,Bogota - Colombia,1994.0
+3271,,Mujer,Valencia - España,2000.0
+3272,,,España,
+3273,,Mujer,Argentina,2000.0
+3274,,,España,
+3275,,Mujer,Almería - España,1995.0
+3276,,Mujer,Barcelona - España,1996.0
+3277,,Mujer,Asturias - España,1993.0
+3278,,Mujer,Coslada - España,1980.0
+3279,,Hombre,¿?,
+3280,,,España,1910.0
+3281,,Hombre,Madrid - España,1995.0
+3282,,Mujer,Madrid - España,2002.0
+3283,,Hombre,Castellón de la plana - España,1991.0
+3284,,Mujer,Barcelona - España,1992.0
+3285,,Hombre,Murcia - España,1984.0
+3286,,Mujer,Valencia - España,1991.0
+3287,,Mujer,Segovia - España,1995.0
+3288,,Mujer,Rocafort - España,1999.0
+3289,,,¿?,
+3290,,Mujer,Granada - España,1981.0
+3291,,Hombre,Madrid - España,1988.0
+3292,,Hombre,Bogota - Colombia,1979.0
+3293,,,Badalona - España,
+3294,,Hombre,Telde - España,1995.0
+3295,,Hombre,Mostoles - España,1980.0
+3296,,,España,
+3297,,,España,
+3298,,Hombre,Tlaxcala - Mexico,1997.0
+3299,,Mujer,Bogota - Colombia,1990.0
+3300,,,España,
+3301,,Mujer,Buenos aires - Argentina,1989.0
+3302,,Hombre,Santiago - Cote d'Ivoire,1994.0
+3303,,Mujer,España,1979.0
+3304,,Hombre,Las palmas - España,1978.0
+3305,,,España,
+3306,,Mujer,Mexico,1997.0
+3307,,Mujer,Las palmas de gran canaria - España,1965.0
+3308,,Hombre,Lima - Peru,1997.0
+3309,,Mujer,Mexico,1985.0
+3310,,,Castellón - España,1984.0
+3311,,Mujer,España,1982.0
+3312,,Mujer,España,1980.0
+3313,,Mujer,México - Mexico,1987.0
+3314,,,Cote d'Ivoire,1990.0
+3315,,,Málaga - España,1985.0
+3316,,,General madariaga - Argentina,1965.0
+3317,,,San salvador - España,1984.0
+3318,,,España,
+3319,,,España,
+3320,,Mujer,Barberá del vallés - España,1974.0
+3321,,,España,1957.0
+3322,,,España,
+3323,,,,
+3324,,,España,
+3325,,,España,
+3326,,,España,
+3327,,,España,
+3328,,,España,
+3329,,,España,
+3330,,,España,
+3331,,,España,
+3332,,,España,
+3333,,,España,
+3334,,,España,
+3335,,,España,
+3336,,,España,
+3337,,,España,
+3338,,,España,
+3339,,Mujer,Hermosillo - Mexico,1989.0
+3340,,Mujer,Monterrey - Mexico,1992.0
+3341,,Mujer,Distrito federal - Mexico,1992.0
+3342,,Hombre,España,1984.0
+3343,,Mujer,Ibiza - España,1995.0
+3344,,Mujer,Callosa de segura - España,1973.0
+3345,,Mujer,,
+3346,,Mujer,España,1985.0
+3347,,,España,
+3348,,Mujer,Las palmas - España,1982.0
+3349,,,España,
+3350,,,España,
+3351,,,España,
+3352,,,España,
+3353,,Hombre,España,1987.0
+3354,,Hombre,Logroño - España,1986.0
+3355,,,España,
+3356,,,España,
+3357,,,España,
+3358,,Mujer,Barcelona - Afghanistan,1981.0
+3359,,Mujer,,
+3360,,,España,1910.0
+3361,,Mujer,Málaga - Afghanistan,1985.0
+3362,,Mujer,Santiago - Cote d'Ivoire,1995.0
+3363,,Mujer,Puerto montt - Cote d'Ivoire,1991.0
+3364,,Mujer,Valledupar - Colombia,1997.0
+3365,,Mujer,Chihuahua - Mexico,1982.0
+3366,,,Argentina,1910.0
+3367,,Mujer,Chihuahua - Mexico,1983.0
+3368,,Hombre,España,1978.0
+3369,,,¿?,
+3370,,,España,
+3371,,Hombre,España,1966.0
+3372,,Hombre,San miguel de tucuman - Argentina,1998.0
+3373,,Mujer,Bahía blanca - Argentina,1985.0
+3374,,Hombre,Lima - Peru,1910.0
+3375,,Mujer,Madrid - España,1965.0
+3376,,Mujer,Murcia - España,1994.0
+3377,,Mujer,,
+3378,,Mujer,Madrid - España,1990.0
+3379,,,España,1969.0
+3380,,,España,1979.0
+3381,,Mujer,Barcelona - España,1983.0
+3382,,Hombre,Caba - Argentina,1974.0
+3383,,Hombre,Buenos aires - Argentina,1980.0
+3384,,Mujer,¿?,
+3385,,Mujer,Pamplona - España,1989.0
+3386,,Hombre,Madrid - España,1983.0
+3387,,Mujer,,
+3388,,Mujer,España,1957.0
+3389,,Mujer,Madrid - España,1988.0
+3390,,Mujer,Valladolid - España,1981.0
+3391,,Mujer,Maracaibo - Venezuela,1994.0
+3392,,,Castellon - España,1966.0
+3393,,Hombre,Madrid - España,1988.0
+3394,,Mujer,Rosario - Argentina,1989.0
+3395,,Mujer,Ciudad real - España,1986.0
+3396,,,España,2011.0
+3397,,Mujer,Valencia - España,1995.0
+3398,,,España,
+3399,,Mujer,Bs as - Argentina,1985.0
+3400,,Mujer,Capital federal - Argentina,1988.0
+3401,,Hombre,Madrid - España,1970.0
+3402,,Hombre,Alicante - España,1977.0
+3403,,Mujer,Vitoria - España,1990.0
+3404,,Hombre,"Zurich - Switzerland, Swiss Confederation",1970.0
+3405,,Mujer,A coruña - España,1980.0
+3406,,Mujer,Medellín - Colombia,1980.0
+3407,,Hombre,Mexico - Mexico,1998.0
+3408,,Mujer,Cdmx - Mexico,1979.0
+3409,,Hombre,Getafe - España,1984.0
+3410,,Hombre,Ca - España,1990.0
+3411,,Hombre,,
+3412,,Mujer,España,1974.0
+3413,,Mujer,La plata - Argentina,1982.0
+3414,,Hombre,Argentina,1984.0
+3415,,,España,1910.0
+3416,,Mujer,España,1990.0
+3417,,Mujer,Alvaneu - España,1980.0
+3418,,Hombre,Mar del plata - Argentina,1965.0
+3419,,,España,
+3420,,,España,
+3421,,Mujer,Guadalajar - Mexico,1992.0
+3422,,Hombre,"France, French Republic",1964.0
+3423,,Mujer,Valencia - España,1960.0
+3424,,,España,
+3425,,Mujer,España,1985.0
+3426,,,Madrid - España,1964.0
+3427,,,Madrid - España,1964.0
+3428,,,España,
+3429,,,San salvador - España,1970.0
+3430,,,Santiago - Cote d'Ivoire,1983.0
+3431,,Mujer,Jalisco - Mexico,1987.0
+3432,,,Murcia - España,1980.0
+3433,,,España,1968.0
+3434,,,City bell - Argentina,1986.0
+3435,,,Valencia - España,1962.0
+3436,,Hombre,Elche - España,1977.0
+3437,,,España,
+3438,,,España,
+3439,,,Mexico,
+3440,,,Venezuela,
+3441,,,España,
+3442,,,Puerto Rico,
+3443,,,España,
+3444,,,España,
+3445,,,España,
+3446,,,España,
+3447,,Hombre,Béjar - España,1986.0
+3448,,,Peru,
+3449,,,Puerto Rico,
+3450,,,España,
+3451,,,España,
+3452,,,España,
+3453,,,España,
+3454,,,Argentina,
+3455,,,España,
+3456,,,España,1972.0
+3457,,,Venezuela,
+3458,,Hombre,Mazagón - España,1973.0
+3459,,,España,
+3460,,Mujer,Madrid - España,1967.0
+3461,,,España,
+3462,,,España,
+3463,,,España,
+3464,,,España,
+3465,,,España,
+3466,,,España,
+3467,,,España,
+3468,,,España,
+3469,,,España,
+3470,,,España,
+3471,,,España,
+3472,,,España,
+3473,,,España,
+3474,,,España,
+3475,,,España,
+3476,,,España,
+3477,,,España,
+3478,,Mujer,Torrelodones - España,1976.0
+3479,,Mujer,,
+3480,,Mujer,Quito - Ecuador,1988.0
