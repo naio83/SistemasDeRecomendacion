@@ -34,8 +34,9 @@ Para los postulantes que estaban tanto en train como en test se utilizo LightFM 
 avisos.
 
 #### B) LightFM para todos los postulantes de Test:
-Para esta opcion, que fue la que mejor resultado obtuvo se realizo una busqueda del 100% de los postulantes
-de test utilizando LightFM, variando los hiperparametros para obtener los mejores resultados.
+Para esta opcion se realizo una busqueda del 100% de los postulantes de test utilizando LightFM, variando los hiperparametros para obtener los mejores resultados. Si bien se hicieron pruebas agregando distintos user_features e item_features los mejores resultados se obtuvieron sin predecir con ellos.
+
+**Este fue el modelo con el que se obtuvo el mejor resultado**
 
 
 Se presentan 3 archivos:
@@ -43,7 +44,7 @@ Se presentan 3 archivos:
 Cuenta con las primeras pruebas y los baselines.
 #### expl_etl.ipynb : 
 Analisis exploratorio y ejecucion de ETLs para la creacion de archivos que seran utilizados
-en el modelo final.
+en modelo_lightfm. 
 #### modelo_lightfm.ipynb : 
 Modelo final, que refleja lo construido segun las salvedades y el punto (B)
 
